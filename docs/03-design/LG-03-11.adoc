@@ -46,7 +46,7 @@ Yazılım mimarları:
 ** tekrarlanabilir derlemeler
 ** tutarlı ortamlar (örn. değişmez ve harcanabilir altyapı kullanımı)
 ** her şeyi sürüm kontrolü altına almak
-** geri alınması kolay sürümler
+** geri alınması kolay azatlar
 
 
 // end::TR[]
