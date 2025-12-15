@@ -77,27 +77,27 @@ domain-driven design
 |===
 
 === Amaç
-Bu bölüm, katılımcıların sistem bağlamının verilen sınır koşullarına saygı gösterirken paydaş gereksinimlerini karşılayacak şekilde mimari kararlar almasını sağlamayı amaçlar.
-Mimari tasarımlar geliştirmeyi, sistem ayrıştırması hakkında bilinçli kararlar almayı ve yapı taşları arasındaki bağımlılıkları şekillendirmeyi öğreneceklerdir.
+Bu bölüm; katılımcıların bir yandan sistem bağlamınca tanımlanan sınır koşullarına bağlı kalırken, diğer yandan paydaş gereksinimlerini karşılayacak şekilde mimari kararlar alabilmelerini sağlamayı amaçlar.
+Mimari tasarımlar; geliştirmeyi, sistem ayrıştırması hakkında bilinçli kararlar almayı ve yapı taşları arasındaki bağımlılıkları şekillendirmeyi öğreneceklerdir.
 Bu amaçla, mimari geliştirmede temel yaklaşımları ve buluşsal yöntemleri uygulamayı öğrenirler.
 Tasarım ilkeleri ve çözüm örüntülerinin önemini fark eder ve bunları uygulayabilirler.
-Ayrıca, bu bölüm kesişen ilgi alanlarının yönetimi, yazılım dağıtımının ilkeleri ve dağıtık sistemlerin zorluklarını ele alır.
+Ayrıca, bu bölüm kesişimsel ilgi alanlarının yönetimi, yazılım dağıtımının ilkeleri ve dağıtık sistemlerin zorluklarını ele alır.
 
 === İlgili Terimler
 Tasarım; tasarım yaklaşımı; {glossary_url}architectural-decision[mimari karar]; görünümler;
 {glossary_url}interface[arayüzler];
 teknik kavramlar ve
-{glossary_url}cross-cutting-concern[kesişen ilgi alanları];
+{glossary_url}cross-cutting-concern[kesişimsel ilgi alanları];
 mimari örüntüler;
 tasarım örüntüleri;
 örüntü dilleri;
 tasarım ilkeleri;
 bağımlılıklar;
-bağlılık;
+bağlaşımlar;
 bağdaşıklık;
-yukarıdan aşağıya ve aşağıdan yukarıya yaklaşımlar;
+tepeden aşağı ve tabandan yukarı yaklaşımlar;
 model tabanlı tasarım;
-iteratif tasarım;
+yinelemeli tasarım;
 alan odaklı tasarım
 
 // end::TR[]
