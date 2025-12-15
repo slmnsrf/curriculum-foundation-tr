@@ -30,10 +30,10 @@ Software architects are able to name, explain, and use fundamental approaches of
 
 // tag::TR[]
 [[LG-03-03]]
-==== LG 03-03 [önceki LG 2-1]: Mimari Geliştirme için Yaklaşımları ve Buluşsal Yöntemleri Seçmek ve Kullanmak (R1,R3)
+==== LG 03-03 [önceki LG 2-1]: Mimari Geliştirme için Yaklaşımları ve Buluşsal Yöntemleri (Höristik) Seçmek ve Kullanmak (R1,R3)
 Yazılım mimarları, mimari geliştirmenin temel yaklaşımlarını adlandırabilir, açıklayabilir ve kullanabilir, örneğin:
 
-* tasarımda yukarıdan aşağıya ve aşağıdan yukarıya yaklaşımlar, bkz. <<gharbietal>>, <<starke>> (R1)
+* tasarımda tepeden aşağı ve tabandan yukarı yaklaşımlar, bkz. <<gharbietal>>, <<starke>> (R1)
 * görünüm tabanlı mimari geliştirme, bkz. <<rozanskiwoods>>, <<kruchten95>> (R1)
 * alan odaklı tasarım, bkz. <<evans>> (R3)
 * evrimsel mimari, bkz. <<ford>> (R3)
