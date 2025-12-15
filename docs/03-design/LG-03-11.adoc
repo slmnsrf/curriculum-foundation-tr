@@ -36,15 +36,15 @@ Software architects:
 // tag::TR[]
 
 [[LG-03-11]]
-==== LG 03-11 [önceki LG 2-10]: Yazılım Dağıtımının Temel İlkelerini Bilmek (R3)
+==== LG 03-11 [önceki LG 2-10]: Yazılım Konuşlandırmasının Temel İlkelerini Bilmek (R3)
 
 Yazılım mimarları:
 
-* yazılım dağıtımının, yeni veya güncellenmiş yazılımı kullanıcılarına sunma süreci olduğunu bilir
-* yazılım dağıtımının temel kavramlarını adlandırabilir ve açıklayabilir:
-** otomatik dağıtımlar
-** tekrarlanabilir yapılar
-** tutarlı ortamlar (örn. değişmez ve tek kullanımlık altyapı kullanımı)
+* yazılım konuşlandırmasının, yeni veya güncellenmiş yazılımı kullanıcılarına sunma süreci olduğunu bilir
+* yazılım konuşlandırmasının temel kavramlarını adlandırabilir ve açıklayabilir:
+** otomatik konuşlandırmalar
+** tekrarlanabilir derlemeler
+** tutarlı ortamlar (örn. değişmez ve harcanabilir altyapı kullanımı)
 ** her şeyi sürüm kontrolü altına almak
 ** geri alınması kolay sürümler
 
