@@ -109,6 +109,8 @@
 | local variable | yerel değişken | |
 | error handling | hata işleme | |
 | exception handling | istisna işleme | |
+| explicit | belirtik | |
+| implicit | örtük | |
 
 
 ---
