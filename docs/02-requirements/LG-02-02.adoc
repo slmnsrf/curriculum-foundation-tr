@@ -98,7 +98,7 @@ Kararlarının yeni gereksinimler getirebileceğini veya mevcut gereksinimlerde 
 Aşağıdakilerin etkisini tanımalı ve hesaba katmalıdırlar:
 
 * aşağıdaki gibi ürün ile ilgili gereksinimler (R1)
-** fonksiyonel gereksinimler
+** işlevsel gereksinimler
 ** {glossary_url}quality-requirement[kalite gereksinimleri]
 
 * aşağıdaki gibi teknolojik sınır koşulları
