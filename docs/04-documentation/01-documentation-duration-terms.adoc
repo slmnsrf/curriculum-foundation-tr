@@ -43,8 +43,8 @@ Additionally, participants will learn to document key architectural decisions, i
 === Amaç
 Bu bölümün amacı, katılımcıların yazılım mimarilerini önemli paydaşların ihtiyaçlarını karşılayacak ve geliştirme sürecini destekleyecek şekilde dokümante etmelerini ve iletmelerini sağlamaktır.
 Odak noktası, teknik dokümantasyon için temel gereksinimleri anlamak, mimarileri tanımlamak için uygun modeller ve gösterimler kullanmak ve temel mimari görünümleri uygulamaktır.
-Ayrıca katılımcılar, açık, doğru ve paydaşlarla ilgili dokümantasyonu sağlamak için temel mimari kararları, arayüzleri ve kesişen ilgi alanlarını dokümante etmeyi öğreneceklerdir.
+Ayrıca katılımcılar, açık, doğru ve paydaşlarla ilgili dokümantasyonu sağlamak için temel mimari kararları, arayüzleri ve kesişimsel ilgi alanlarını dokümante etmeyi öğreneceklerdir.
 
 === İlgili Terimler
-(Mimari) görünümler; yapılar; (teknik) kavramlar; dokümantasyon; iletişim; tanım; hedef kitlelere ve paydaş ilgi alanlarına uyum; tanım ve iletişim için yapılar ve şablonlar; sistem bağlamı; yapı taşları; yapı taşı görünümü; çalışma zamanı görünümü; dağıtım görünümü; düğüm; kanal; dağıtım yapıları; yapı taşlarının dağıtım yapılarına eşlenmesi; dağıtım yapılarının düğümlere eşlenmesi; arayüz ve tasarım kararları tanımı; UML; dokümantasyon araçları
+(Mimari) görünümler; yapılar; (teknik) kavramlar; dokümantasyon; iletişim; tanım; hedef kitlelere ve paydaş ilgi alanlarına uyum; tanım ve iletişim için yapılar ve şablonlar; sistem bağlamı; yapı taşları; yapı taşı görünümü; yürütüm zamanı görünümü; konuşlandırma görünümü; düğüm; kanal; konuşlandırma yapıları; yapı taşlarının konuşlandırma yapılarına eşlenmesi; konuşlandırma yapılarının düğümlere eşlenmesi; arayüz ve tasarım kararları tanımı; UML; dokümantasyon araçları
 // end::TR[]
