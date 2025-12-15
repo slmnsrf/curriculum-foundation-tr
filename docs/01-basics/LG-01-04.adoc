@@ -54,14 +54,14 @@ Kullanılan gerçek yaklaşıma veya süreç modeline bağlı olarak, bu sorumlu
 Yazılım mimarlarının görev ve sorumlulukları:
 
 * gereksinimleri ve sınır koşullarını netleştirmek ve sorgulamak.
-Gerekli düzeltmeleri ilgili paydaşlarla koordine etmek ve üzerinde anlaşmak.
+Gerekli safileştirmeleri ilgili paydaşlarla koordine etmek ve safileştirmeler üzerinde anlaşmak.
 * yapı taşları arasındaki bağımlılıkları ve arayüzleri belirlerken sistemin yapı taşlarına nasıl ayrıştırılacağına karar vermek
-* kesişen ilgi alanlarına karar vermek (örneğin kalıcılık, iletişim, GUI)
-* yazılım mimarisini görünümler, mimari örüntüler, kesişen ilgi alanları ve teknik konulara dayalı olarak iletmek ve belgelemek
-* mimarinin gerçekleştirilmesine ve uygulanmasına eşlik etmek; gerekirse ilgili paydaşlardan gelen geri bildirimleri mimariye entegre etmek; kaynak kodu ve yazılım mimarisinin tutarlılığını gözden geçirmek ve sağlamak
-* yazılım mimarisini analiz etmek ve değerlendirmek, özellikle gereksinimlerin karşılanmasını içeren riskler açısından.
+* kesişen ilgi alanlarına karar vermek (örneğin süreğenlik, iletişim, GUI)
+* yazılım mimarisini; görünümler, mimari örüntüler, kesişen ilgi alanları ve teknik konulara dayalı olarak iletmek ve belgelemek
+* mimarinin gerçekleştirilmesine ve uygulanmasına eşlik etmek; gerekirse ilgili paydaşlardan gelen geri bildirimleri mimariye entegre etmek; kaynak kodunun ve yazılım mimarisinin tutarlılığını gözden geçirmek ve temin etmek
+* yazılım mimarisini, bilhassa gereksinimlerin karşılanmasına etki edebilecek riskler açısından analiz etmek ve değerlendirmek
 * mimari kararların sonuçlarını belirlemek, vurgulamak ve diğer paydaşlara gerekçelendirmek
 
-Tüm görevlerde iterasyonların gerekliliğini bağımsız olarak fark etmeli ve uygun ve ilgili geri bildirim için olanakları belirtmelidirler.
+Tüm görevlerde yinelemelerin gerekliliğini bağımsız olarak fark etmeli; uygun ve alakalı geri bildirimler için olanakları belirtmelidirler.
 
 // end::TR[]
