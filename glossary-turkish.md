@@ -17,10 +17,11 @@
 | architecture view | mimari görünüm | |
 | building block | yapı taşı | general structural element |
 | component | bileşen | specific building block type |
-| cross-cutting concern | kesişen ilgi alanı | |
+| cross-cutting concern | kesişimsel ilgi alanı | |
 | dependency | bağımlılık | |
 | design | tasarım | |
 | design principle | tasarım ilkesi | |
+| influencing factor | etki eden etmen | |
 | interface | arayüz | |
 | module | modül | |
 | pattern | örüntü | |
@@ -34,6 +35,7 @@
 | maintainability | bakım yapılabilirlik | |
 | modifiability | değiştirilebilirlik | |
 | performance | performans | |
+| persistence | süreğenlik | |
 | portability | taşınabilirlik | |
 | quality attribute | kalite niteliği | |
 | reliability | güvenilirlik | |
@@ -41,12 +43,15 @@
 | testability | test edilebilirlik | |
 | usability | kullanılabilirlik | |
 
+
 ## Stakeholders & Requirements
 
 | English | Turkish | Context |
 |---------|---------|---------|
 | constraint | sınır koşulu | |
+| functional requirement | işlevsel gereksinim | |
 | requirement | gereksinim | |
+| quality requirement | kalite gereksinimi | |
 | stakeholder | paydaş | |
 
 ## Documentation
@@ -56,6 +61,7 @@
 | documentation | dokümantasyon | |
 | notation | gösterim | |
 | view | görünüm | architectural view |
+| architectural view | mimari görünüm | architectural view |
 
 ## Curriculum Terms
 
@@ -75,6 +81,28 @@
 | information hiding | bilgi saklama | |
 | runtime | çalışma zamanı | |
 | trade-off | ödünleşim | |
+| heuristics | buluşsal yöntemler | |
+| static typing | statik tipleme | |
+| dynamic typing | dinamik tipleme | |
+| hashtable | özet tablosu | |
+| dictionary | sözlük | |
+| map | eşlem | |
+| imperative | emirsel | |
+| imperative programming | emirsel programlama | |
+| declarative | bildirimsel | |
+| declarative programming | bildirimsel programlama | |
+| functional | işlevsel | |
+| functional programming | işlevsel programlama | |
+| high level programming language | yüksek seviyeli programlama dili | |
+| low level programming language | düşük seviyeli programlama dili | |
+| refinement | safileştirme | |
+| iteration | yineleme | |
+| iterative development | yinelemeli geliştirme | |
+| incremental | artımlı | |
+| incremental development | artımlı geliştirme | |
+| top-down | tepeden aşağı | |
+| bottom-up | tabandan yukarı | |
+| agile | çevik | |
 
 ---
 
