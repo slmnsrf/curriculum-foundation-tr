@@ -46,9 +46,9 @@ iSAQB CPSA Foundation Level'ın odak noktası, bireysel yazılım sistemlerinin 
 Buna ek olarak, yazılım mimarları diğer mimari alanları da bilir, örneğin:
 
 * kurumsal BT mimarisi: Uygulama yelpazelerinin yapısı
-* iş ve süreç mimarisi: Diğer şeylerin yanı sıra iş süreçlerinin yapısı
+* iş ve süreç mimarisi: Diğer hususların yanı sıra, iş süreçlerinin yapısı
 * bilgi mimarisi: Bilgi ve verilerin sistemler arası yapısı ve kullanımı
-* altyapı veya teknoloji mimarisi: Teknik altyapı, donanım, ağlar vb. yapısı
+* altyapı veya teknoloji mimarisi: Teknik altyapı, donanım, ağlar vb. yapıları
 * donanım veya işlemci mimarisi (donanımla ilgili sistemler için)
 * sistem mimarisi ("sistem" tanımına bağlı olarak çeşitli anlamları olabilir)
 
