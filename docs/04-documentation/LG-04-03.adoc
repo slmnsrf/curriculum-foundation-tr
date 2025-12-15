@@ -48,7 +48,7 @@ Software architects know alternative notations to UML diagrams, for example: (R3
 Yazılım mimarları mimari görünümleri tanımlamak için en azından aşağıdaki UML diyagramlarını bilir:
 
 * sınıf, paket, bileşen (tümü R2) ve bileşik yapı diyagramları (R3)
-* dağıtım diyagramları (R2)
+* konuşlandırma diyagramları (R2)
 * sıra ve etkinlik diyagramları (R2)
 * durum makinesi diyagramları (R3)
 
