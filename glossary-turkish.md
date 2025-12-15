@@ -18,6 +18,7 @@
 | building block | yapı taşı | general structural element |
 | component | bileşen | specific building block type |
 | cross-cutting concern | kesişimsel ilgi alanı | |
+| cross-cutting concept | kesişimsel kavram | |
 | dependency | bağımlılık | |
 | design | tasarım | |
 | design principle | tasarım ilkesi | |
@@ -26,6 +27,7 @@
 | module | modül | |
 | pattern | örüntü | |
 | structure | yapı | |
+| specification | belirtim | |
 
 ## Quality Attributes
 
@@ -76,9 +78,9 @@
 | English | Turkish | Context |
 |---------|---------|---------|
 | cohesion | bağdaşıklık | |
-| coupling | bağlılık | |
-| encapsulation | kapsülleme | |
-| information hiding | bilgi saklama | |
+| coupling | bağlaşım | |
+| encapsulation | sarma | |
+| information hiding | bilgi gizleme | |
 | runtime | çalışma zamanı | |
 | trade-off | ödünleşim | |
 | heuristics | buluşsal yöntemler | |
@@ -111,6 +113,43 @@
 | exception handling | istisna işleme | |
 | explicit | belirtik | |
 | implicit | örtük | |
+| cohesion | bağdaşıklık | |
+| domain-driven | alan odaklı | |
+| model-based | model tabanlı | |
+| run-time | yürütüm zamanı | |
+| compile time | derleme zamanı | |
+| seperation of concerns | sorumlulukların ayrılması | |
+| open-closed principle | açıklık-kapalılık ilkesi | |
+| dependency inversion principle | bağımlılık evirimi ilkesi | |
+| the principle of least surprise | en az sürpriz ilkesi | |
+| Liskov’s substitution principle | Liskov ikame ilkesi | |
+| single responsibility principle | tek sorumluluk ilkesi | |
+| interface segregation principle | arayüz ayrım ilkesi | |
+| dependency injection | bağımlılık enjeksiyonu | |
+| implementation | gerçekleştirme | |
+| application | uygulama | |
+| synchronous | eşzamanlı | |
+| asynchronous | eszamansız | |
+| binary | ikilik | |
+| non-binary | ikilik dışı | |
+| function call | işlev çağırma | |
+| procedure | yordam | |
+| stored procedure | saklı yordam | |
+| remote procedure call | uzaktan yordam çağırma | |
+| batch | yığın | |
+| streaming | akışlandırma | |
+| service interface | hizmet arayüzü | |
+| concurrency | eşzamanlılık | |
+| build | derleme | |
+| deployment | konuşlandırma | |
+| release | azat | |
+
+
+
+
+
+
+
 
 
 ---
