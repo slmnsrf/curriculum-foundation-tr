@@ -22,10 +22,10 @@ Software architects:
 
 // tag::TR[]
 [[LG-02-05]]
-==== LG 02-05 [önceki LG 1-8]: Örtük Varsayımlar Yerine Açık İfadeleri Tercih Etmek (R1)
+==== LG 02-05 [önceki LG 1-8]: Örtük Varsayımlar Yerine Belirtik İfadeleri Tercih Etmek (R1)
 
 Yazılım mimarları:
 
-* varsayımları açık hale getirebilir ve böylece örtük varsayımlardan kaçınabilir
+* varsayımları belirtik hale getirebilir ve böylece örtük varsayımlardan kaçınabilir
 * örtük varsayımların paydaşlar arasında yanlış anlamalara yol açabileceğini bilir
 // end::TR[]
