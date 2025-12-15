@@ -81,30 +81,30 @@ iSAQB e. V., sertifikasyon sınavlarında aşağıdaki ön koşulları ilgili so
 ====
 
 Katılımcılar aşağıdaki bilgi ve/veya deneyime sahip olmalıdır.
-Özellikle, bir ekipte yazılım geliştirme konusunda önemli pratik deneyim, öğrenme materyalini anlamak ve başarılı sertifikasyon için önemli bir ön koşuldur.
+Bilhassa bir ekip bünyesinde yazılım geliştirme konusunda kapsamlı pratik deneyime sahip olunması, öğrenim içeriğini anlamak ve başarılı sertifikasyon edinimi için önemli bir ön koşuldur.
 
 * örgün eğitim dışında birden fazla sistemin ekip tabanlı geliştirilmesi yoluyla kazanılmış, yazılım geliştirme alanında 18 aydan fazla pratik deneyim
 * en az bir üst düzey programlama dilinde bilgi ve pratik deneyim, özellikle:
 ** aşağıdaki kavramlar:
 *** modülerleştirme (paketler, isim alanları vb.)
 *** parametre geçişi (_değer ile çağrı, referans ile çağrı_)
-*** _kapsam_, yani tür ve değişken bildirimi ve tanımı
-** tür sistemlerinin temelleri (statik ve dinamik türleme, jenerik veri türleri)
+*** _kapsam_, yani tip ve değişken bildirimi ve tanımı
+** tip sistemlerinin temelleri (statik ve dinamik tipleme, jenerik veri türleri)
 ** yazılımda hata ve istisna işleme
-** global durum ve global değişkenlerin potansiyel sorunları
+** genel durum ve genel değişkenlerin potansiyel sorunları
 
 * Temel bilgiler:
 ** modelleme ve soyutlama
-** algoritmalar ve veri yapıları (Listeler, Ağaçlar, HashTable, Dictionary, Map gibi)
+** algoritmalar ve veri yapıları (Listeler, Ağaçlar, Özet Tablosu, Sözlük, Eşlem gibi)
 ** UML (sınıf, paket, bileşen ve sıra diyagramları) ve bunların kaynak kodla ilişkisi
 ** yazılım test yaklaşımları (örneğin birim ve kabul testleri)
 
 
 Ayrıca, bazı kavramların anlaşılması için aşağıdakiler faydalı olacaktır:
 
-* imperatif, deklaratif, nesne yönelimli ve fonksiyonel programlamanın temelleri ve farkları
+* emirsel, bildirimsel, nesne yönelimli ve işlevsel programlamanın temelleri ve farkları
 * aşağıdaki alanlarda pratik deneyim:
-** üst düzey bir programlama dili
+** yüksek seviyeli bir programlama dili
 ** istemci-sunucu sistemleri veya web uygulamaları gibi dağıtık uygulamaların tasarımı ve uygulanması
 ** teknik dokümantasyon, özellikle kaynak kodu, sistem tasarımı veya teknik kavramların belgelenmesi
 
