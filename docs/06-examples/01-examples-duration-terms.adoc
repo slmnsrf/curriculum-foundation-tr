@@ -19,3 +19,13 @@ Dieser Abschnitt ist nicht prüfungsrelevant.
 This section is not relevant for the exam.
 
 // end::EN[]
+
+// tag::TR[]
+== Yazılım Mimarisi Örnekleri
+|===
+| Süre: 90 dk. | Alıştırmalar: yok
+|===
+
+Bu bölüm sınav için geçerli değildir.
+
+// end::TR[]

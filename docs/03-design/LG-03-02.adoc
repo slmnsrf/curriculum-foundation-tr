@@ -35,5 +35,23 @@ Software architects are able to:
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-03-02]]
+==== LG 03-02 [önceki LG 2-2]: Yazılım Mimarileri Tasarlamak (R1)
+
+Yazılım mimarları şunları yapabilir:
+
+* ne güvenlik açısından kritik ne de iş açısından kritik olan yazılım sistemleri için bilinen fonksiyonel ve kalite gereksinimlerine dayalı olarak yazılım mimarilerini tasarlamak, uygun şekilde iletmek ve belgelemek
+* yapı taşları arasındaki bağımlılıkları tanımlayarak sistem ayrıştırması ve yapı taşı yapısı hakkında yapısal kararlar almak (bkz. <<LG-03-06>>)
+* {glossary_url}architectural-decision[mimari kararlar] arasındaki karşılıklı bağımlılıkları ve ödünleşimleri tanımak ve gerekçelendirmek
+* {glossary_url}blackbox[black box] ve {glossary_url}whitebox[white box] terimlerini açıklamak ve amaca yönelik uygulamak
+* yapı taşlarının adım adım iyileştirilmesini ve belirtilmesini uygulamak
+* mimari görünümleri tasarlamak, özellikle yapı taşı görünümü, çalışma zamanı görünümü ve dağıtım görünümü (bkz. <<LG-04-05>>)
+* kararların ilgili kaynak kodu üzerindeki sonuçlarını açıklamak
+* mimarilerin teknik ve alan ile ilgili öğelerini ayırmak ve bu kararları gerekçelendirmek
+* mimari kararlarla ilgili riskleri belirlemek.
+
+// end::TR[]
+
 ===== {references}
 <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>, <<starke>>

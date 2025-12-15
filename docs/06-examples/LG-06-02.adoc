@@ -14,6 +14,13 @@ Software architects understand the technical realization (implementation, techni
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-06-02]]
+==== LG 06-02 [önceki LG 5-2]: Bir Çözümün Teknik Uygulamasını Anlamak (R3)
+
+Yazılım mimarları en az bir çözümün teknik gerçekleştirmesini (uygulama, teknik kavramlar, kullanılan ürünler, mimari kararlar, çözüm stratejileri) anlar.
+
+// end::TR[]
 
 ===== {references}
 <<arc42>>, <<starkeetalarc42>>, <<hruschkaetalarc42>>, <<zoerner>>, <<aosa>>

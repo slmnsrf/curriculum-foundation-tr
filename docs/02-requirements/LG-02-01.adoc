@@ -79,3 +79,43 @@ Architects understand that not all stakeholder concerns can or will be translate
 Architects can use stakeholder concerns to discover missing or conflicting requirements and/or validate requirements and constraints on the architecture, e.g., in stakeholder interviews. (R3)
 
 // end::EN[]
+
+// tag::TR[]
+[[LG-02-01]]
+==== LG 02-01: Paydaş İlgi Alanlarını Anlamak (R1,R3)
+
+Mimarlar, paydaşları ve ilgi alanlarını, bunların yazılım mimarisi veya tasarım ve geliştirme süreci üzerindeki etkisini belirleyebilir. (R1)
+
+Paydaş ve ilgi alanı örnekleri (R3):
+
+|===
+|Paydaş |Paydaş İlgi Alanı
+
+| ürün yönetimi ve ürün sahipleri
+| örneğin gereksinimlerin uygulanması için gereken süre
+
+| geliştiriciler
+| örneğin uygulanacak bileşenler ve arayüzler, protokoller, teknik gereksinimler ve sınır koşulları
+
+| gereksinim mühendisleri, ürün sahipleri, iş analistleri
+| örneğin gereksinimlerin karşılanması
+
+| proje yöneticileri
+| örneğin uygulama için gereken süre ve bütçe, seçilen mimari yaklaşımın ilişkili riskleri
+
+| kalite güvence ve testçiler
+| örneğin bileşenlerin izole testi
+
+| operasyonlar
+| örneğin sistemin işletilmesiyle ilgili altyapı gereksinimleri
+
+|===
+
+Yazılım mimarları, kısa vadeli ve uzun vadeli hedefler arasındaki potansiyel çatışmaları belirleyebilir (örneğin iş ve proje hedefleri ile mimari ve bakım yapılabilirlik hedefleri).
+Bu çatışmaları çözmek için ilgili paydaşları dahil etmeleri gerektiğini anlarlar. (R1)
+
+Mimarlar, tüm paydaş ilgi alanlarının gereksinimlere dönüştürülemeyeceğini veya dönüştürülmeyeceğini, ancak yine de dikkate alınması gerektiğini anlar. (R3)
+
+Mimarlar, paydaş ilgi alanlarını eksik veya çelişkili gereksinimleri keşfetmek ve/veya mimari üzerindeki gereksinimleri ve sınır koşullarını doğrulamak için kullanabilir, örneğin paydaş görüşmelerinde. (R3)
+
+// end::TR[]

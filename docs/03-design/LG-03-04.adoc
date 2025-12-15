@@ -109,5 +109,60 @@ Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Prin
 
 // end::EN[]
 
+// tag::TR[]
+
+[[LG-03-04]]
+==== LG 03-04 [önceki LG 2-6]: Tasarım İlkelerini Açıklamak ve Kullanmak (R1-R3)
+
+Yazılım mimarları tasarım ilkelerinin ne olduğunu açıklayabilir.
+Bunların genel hedeflerini ve yazılım mimarisi açısından uygulamalarını ana hatlarıyla belirtebilirler. (R2)
+
+Yazılım mimarları şunları yapabilir:
+
+* aşağıda listelenen tasarım ilkelerini açıklayabilir ve örneklerle gösterebilir
+* bu ilkelerin nasıl uygulanacağını açıklayabilir
+* gereksinimlerin hangi ilkelerin uygulanması gerektiğini nasıl belirlediğini açıklayabilir
+* tasarım ilkelerinin uygulama üzerindeki etkisini açıklayabilir
+* bu tasarım ilkelerinin uygulanıp uygulanmadığını veya uygulanması gerekip gerekmediğini değerlendirmek için kaynak kodu ve mimari tasarımları analiz edebilir
+
+**Soyutlama** (R2)
+
+* yararlı genellemeler türetmenin bir aracı anlamında
+* yapı taşlarının uygulamalara değil soyutlamalara bağlı olduğu bir tasarım tekniği olarak
+* soyutlamalar olarak arayüzler
+
+**Modülerleştirme** (R1)
+
+* {glossary_url}information-hiding[Information Hiding] ve {glossary_url}encapsulation[kapsülleme]
+* {glossary_url}separation-of-concern[Separation of Concerns] - SoC
+* yapı taşlarının gevşek, ancak işlevsel olarak yeterli, bağlılığı (R1), bkz. <<LG-03-06>>
+* yüksek {glossary_url}cohesion[bağdaşıklık]
+* {glossary_url}open-close-principle[Açık/kapalı ilkesi]
+* arayüzler veya benzeri soyutlamalar aracılığıyla {glossary_url}dependency-inversion[Dependency Inversion Principle]
+
+**Kavramsal bütünlük** (R2-R3)
+
+* benzer problemler için çözümlerin tekdüzeliği (homojenlik, tutarlılık) anlamında (R2)
+* en az sürpriz ilkesine (diğer adıyla _en az şaşkınlık ilkesi_, POLA) ulaşmanın bir aracı olarak (R3)
+* tutarlılık, kavramsal bütünlük ve sağlamlığa (tür güvenliği anlamında) ulaşmanın bir yolu olarak Liskov'un yerine koyma ilkesi (R3).
+
+**Karmaşıklık azaltma** (R3)
+
+* KISS, YAGNI ve CUPID'in ardındaki itici faktör olarak <<north-cupid>>
+* tekrarlardan kaçınmanın bir seçeneği olarak DRY (Don't Repeat Yourself)
+
+**Hataları bekle** (R2-R3)
+
+* sağlam ve dayanıklı sistemler tasarlamanın bir aracı olarak (R3)
+* sağlamlık ilkesinin (_Postel yasası_) bir genellemesi olarak (R2)
+
+**SOLID İlkeleri** (R3)
+
+Yazılım mimarları SOLID ilkelerinin faydalarını ve sınırlamalarını bilir:
+Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle
+
+
+// end::TR[]
+
 ===== {references}
 <<liskov>>, <<solid>>

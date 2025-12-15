@@ -24,6 +24,18 @@ Software architects know about Architecture-Decision-Records (ADR, see <<nygard>
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-04-08]]
+==== LG 04-08 [önceki LG 3-8]: Mimari Kararları Açıklamak ve Dokümante Etmek (R1-R2)
+
+Yazılım mimarları şunları yapabilir:
+
+* mimari kararları sistematik olarak almak, gerekçelendirmek, iletmek ve dokümante etmek
+* mimari kararlar arasındaki karşılıklı bağımlılıkları belirlemek, iletmek ve dokümante etmek
+
+Yazılım mimarları Mimari Karar Kayıtlarını (ADR, bkz. <<nygard>>) bilir ve kararları dokümante etmek için bunları uygulayabilir (R2).
+
+// end::TR[]
 
 ===== {references}
 <<nygard>>

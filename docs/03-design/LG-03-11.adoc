@@ -33,5 +33,23 @@ Software architects:
 
 // end::EN[]
 
+// tag::TR[]
+
+[[LG-03-11]]
+==== LG 03-11 [önceki LG 2-10]: Yazılım Dağıtımının Temel İlkelerini Bilmek (R3)
+
+Yazılım mimarları:
+
+* yazılım dağıtımının, yeni veya güncellenmiş yazılımı kullanıcılarına sunma süreci olduğunu bilir
+* yazılım dağıtımının temel kavramlarını adlandırabilir ve açıklayabilir:
+** otomatik dağıtımlar
+** tekrarlanabilir yapılar
+** tutarlı ortamlar (örn. değişmez ve tek kullanımlık altyapı kullanımı)
+** her şeyi sürüm kontrolü altına almak
+** geri alınması kolay sürümler
+
+
+// end::TR[]
+
 ===== {references}
 <<humble>>

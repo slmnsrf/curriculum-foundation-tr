@@ -13,6 +13,12 @@ ifeval::["{language}" == "EN"]
 :toc: left
 endif::[]
 
+ifeval::["{language}" == "TR"]
+= Müfredatpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
+:toc-title: İçindekiler
+:toc: left
+endif::[]
+
 
 // define terms for toc, learning_goals
 // will have strange results if multiple languages

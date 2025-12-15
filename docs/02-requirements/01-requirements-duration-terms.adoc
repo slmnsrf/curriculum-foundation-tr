@@ -37,3 +37,22 @@ They can formulate such requirements using scenarios.
 Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; Q42; quality scenarios; tradeoffs and interactions between quality characteristics; requirements; constraints; stakeholder concerns
 
 // end::EN[]
+
+// tag::TR[]
+== Gereksinimler ve Sınır Koşulları
+
+|===
+| Süre: 90 dk. | Alıştırmalar: 90 dk.
+|===
+
+=== Amaç
+Bu bölüm, katılımcıların paydaş ilgi alanları, gereksinimler ve yazılım mimarisinin kaliteleri hakkındaki anlayışını derinleştirir.
+Katılımcılar, paydaşların mimari kararlar üzerindeki etkisini belirlemeyi ve geliştirme projeleri bağlamında çatışmaları ve sinerjileri değerlendirmeyi öğrenir.
+Çeşitli gereksinimleri ve sınır koşullarını keşfederek, paydaş ihtiyaçlarını ve proje sınır koşullarını etkili bir şekilde ele alma konusunda içgörü kazanırlar.
+Ayrıca, yazılım sistemi kalitelerinin mimari tasarım için itici güçler olarak önemini fark ederler.
+Bu tür gereksinimleri senaryolar kullanarak formüle edebilirler.
+
+=== İlgili Terimler
+Kalite; kalite özellikleri (kalite nitelikleri olarak da adlandırılır); DIN/ISO 25010; Q42; kalite senaryoları; kalite özellikleri arasındaki ödünleşimler ve etkileşimler; gereksinimler; sınır koşulları; paydaş ilgi alanları
+
+// end::TR[]

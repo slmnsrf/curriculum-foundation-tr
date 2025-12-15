@@ -32,3 +32,20 @@ They should adapt their contribution to system development depending on the spec
 * enterprise architects and architecture board members
 
 // end::EN[]
+
+// tag::TR[]
+[[LG-01-06]]
+==== LG 01-06: Yazılım Mimarlarının Rolünü Diğer Paydaşlarla İlişkilendirmek (R1)
+Yazılım mimarları rollerini açıklayabilir.
+Sistem geliştirmeye katkılarını belirli bağlama ve diğer paydaşlar ile organizasyon birimleriyle ilişkiye göre uyarlamalıdırlar, özellikle:
+
+* ürün yönetimi ve ürün sahipleri
+* proje yöneticileri
+* gereksinim mühendisleri (gereksinim veya iş analistleri, gereksinim yöneticileri, sistem analistleri, iş sahipleri, konu uzmanları vb.)
+* geliştiriciler
+* kalite güvence ve testçiler
+* BT operatörleri ve yöneticileri (öncelikli olarak bilgi sistemleri için üretim ortamı veya veri merkezleri için geçerlidir)
+* donanım geliştiricileri ve sistem mimarları (öncelikli olarak gömülü ve donanımla ilgili sistemler için geçerlidir)
+* kurumsal mimarlar ve mimari kurul üyeleri
+
+// end::TR[]

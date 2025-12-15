@@ -32,5 +32,22 @@ See also <<LG-04-07>>.
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-03-10]]
+==== LG 03-10 [önceki LG 2-4]: Kesişen İlgi Alanlarını Belirlemek, Tasarlamak ve Uygulamak (R1)
+
+Yazılım mimarları şunları yapabilir:
+
+* {glossary_url}cross-cutting-concern[kesişen ilgi alanlarının] önemini açıklamak
+* kesişen ilgi alanlarını belirlemek
+* kesişen kavramları tasarlamak, örneğin kalıcılık, iletişim, GUI, hata işleme, eşzamanlılık, enerji verimliliği
+* olası karşılıklı bağımlılıkları belirlemek ve değerlendirmek.
+
+Yazılım mimarları, bu tür kesişen kavramların sistemler arasında yeniden kullanılabileceğini bilir.
+
+Ayrıca bkz. <<LG-04-07>>.
+
+// end::TR[]
+
 ===== {references}
 <<starke>>, <<starkelorz>>

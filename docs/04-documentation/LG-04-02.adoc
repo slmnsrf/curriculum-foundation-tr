@@ -50,3 +50,31 @@ For example, software architects can adjust the following documentation characte
 
 
 // end::EN[]
+
+// tag::TR[]
+[[LG-04-02]]
+==== LG 04-02 [önceki LG 3-2]: Yazılım Mimarilerini Tanımlamak ve İletmek (R1-R3)
+
+Yazılım mimarları, sistemlerin tasarımını, uygulanmasını ve daha fazla geliştirilmesini (_bakım_ veya _evrim_ olarak da adlandırılır) desteklemek için dokümantasyonu kullanır (R2)
+
+Yazılım mimarları şunları yapabilir (R1):
+
+* ilgili paydaş ilgi alanları için mimarileri dokümante etmek ve iletmek, böylece farklı hedef kitlelere hitap etmek, örn. yönetim, geliştirme ekipleri, kalite güvence, diğer yazılım mimarları ve muhtemelen ek paydaşlar
+* farklı yazar gruplarından gelen katkıların stilini ve içeriğini birleştirmek ve uyumlaştırmak
+* yazılı ve sözlü iletişimin tutarlılığını desteklemek ve birini diğerine karşı uygun şekilde dengelemek için önlemler geliştirmek ve uygulamak
+
+Yazılım mimarları şunları bilir (R1):
+
+* şablon tabanlı dokümantasyonun faydaları
+* dokümantasyonun çeşitli özelliklerinin sistemin belirli özelliklerine, gereksinimlerine, risklerine, geliştirme sürecine, organizasyona veya diğer faktörlere bağlı olduğu.
+
+Örneğin, yazılım mimarları aşağıdaki dokümantasyon özelliklerini duruma göre ayarlayabilir (R3):
+
+* ihtiyaç duyulan dokümantasyonun miktarı ve ayrıntı düzeyi
+* dokümantasyon formatı
+* dokümantasyonun erişilebilirliği
+* dokümantasyonun biçimselliği (örn. meta modele uyumlu diyagramlar veya basit çizimler)
+* dokümantasyon için resmi incelemeler ve onay süreçleri
+
+
+// end::TR[]

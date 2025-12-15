@@ -60,3 +60,34 @@ The types (domains and technologies) of examples and exercises can be determined
 |===
 // end::EN[]
 
+// tag::TR[]
+=== Yapı, Süre ve Öğretim Yöntemleri
+
+Müfredatın ilerleyen bölümlerinde verilen çalışma süreleri yalnızca tavsiye niteliğindedir.
+Bir eğitim kursunun süresi en az üç gün olmalıdır, ancak daha uzun da olabilir.
+Sağlayıcılar süre, öğretim yöntemleri, alıştırmaların türü ve yapısı ile ayrıntılı kurs taslağı açısından farklılık gösterebilir.
+Örnek ve alıştırmaların türleri (alanlar ve teknolojiler) eğitim sağlayıcıları tarafından bireysel olarak belirlenebilir.
+
+
+[cols="<,>", options="header,footer"]
+|===
+
+| İçerik | Önerilen Süre (dk)
+
+| 1. Yazılım Mimarisinin Temel Kavramları | 120
+
+| 2. Gereksinimler ve Sınır Koşulları | 180
+
+| 3. Tasarım ve Geliştirme | 360
+
+| 4. Belirtim ve İletişim | 240
+
+| 5. Analiz ve Değerlendirme | 90
+
+| 6. Örnekler | 90
+
+| Toplam | 1080
+
+|===
+// end::TR[]
+

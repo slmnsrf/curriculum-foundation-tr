@@ -38,3 +38,22 @@ The aim of the training is to provide the basics for acquiring the advanced know
 
 // end::EN[]
 
+// tag::TR[]
+=== Kapsam Dışı
+Bu müfredat, iSAQB üyeleri tarafından şu anda CPSA-F'nin öğrenme hedeflerine ulaşmak için gerekli ve yararlı olduğu düşünülen içerikleri yansıtmaktadır. "Yazılım mimarisi" alanının tamamının kapsamlı bir tanımı değildir.
+
+Aşağıdaki konular veya kavramlar CPSA-F kapsamında *değildir*:
+
+* belirli uygulama teknolojileri, çerçeveler veya kütüphaneler
+* programlama veya programlama dilleri
+* belirli süreç modelleri
+* modelleme gösterimlerinin (UML gibi) temelleri veya modellemenin kendisinin temelleri
+* sistem analizi ve gereksinim mühendisliği (IREB e. V. tarafından sunulan eğitim ve sertifikasyon programına bakınız, https://ireb.org, International Requirements Engineering Board)
+* yazılım testi (ISTQB e.V. tarafından sunulan eğitim ve sertifikasyon programına bakınız, https://istqb.org, International Software Testing Qualification Board)
+* proje veya ürün yönetimi
+* belirli yazılım araçlarına giriş.
+
+Eğitimin amacı, ilgili uygulama için gerekli olan ileri düzey bilgi ve becerilerin edinilmesi için temel bilgileri sağlamaktır.
+
+// end::TR[]
+

@@ -23,6 +23,17 @@ They know that only the target audiences can assess the understandability of tec
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-04-01]]
+==== LG 04-01 [önceki LG 3-1]: Teknik Dokümantasyon Gereksinimlerini Açıklamak ve Dikkate Almak (R1)
+Yazılım mimarları teknik dokümantasyon için temel gereksinimleri bilir ve sistemleri dokümante ederken bunları dikkate alabilir ve karşılayabilir:
+
+* anlaşılabilirlik, doğruluk, verimlilik, uygunluk, bakım yapılabilirlik
+* dokümantasyonun hedef kitlesine göre uyarlanmış biçim, içerik ve ayrıntı düzeyi
+
+Teknik dokümantasyonun anlaşılabilirliğini yalnızca hedef kitlelerin değerlendirebileceğini bilirler.
+
+// end::TR[]
 
 ===== {references}
 <<starkelorz>>, <<zoerner>>, <<clementsdoc>>

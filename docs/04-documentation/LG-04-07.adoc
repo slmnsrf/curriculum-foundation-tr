@@ -18,3 +18,12 @@ Software architects are able to adequately document and communicate typical cros
 
 See also <<LG-03-10>>
 // end::EN[]
+
+// tag::TR[]
+[[LG-04-07]]
+==== LG 04-07 [önceki LG 3-06]: Kesişen İlgi Alanlarını Dokümante Etmek ve İletmek (R2)
+
+Yazılım mimarları tipik kesişen ilgi alanlarını ve ilgili çözüm kavramlarını (kesişen kavramlar) yeterli şekilde dokümante edebilir ve iletebilir, örn. kalıcılık, iş akışı yönetimi, kullanıcı arayüzü, dağıtım/entegrasyon, günlükleme.
+
+Ayrıca bkz. <<LG-03-10>>
+// end::TR[]

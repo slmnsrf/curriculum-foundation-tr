@@ -24,6 +24,19 @@ Software architects know and understand the commonalities of many definitions of
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-01-01]]
+==== LG 01-01: Yazılım Mimarisi Tanımlarını Anlamak (R1)
+
+Yazılım mimarları, birçok yazılım mimarisi tanımının ortak noktalarını bilir ve anlar:
+
+* arayüzler ve ilişkilerle birlikte {glossary_url}building-block[bileşenler/yapı taşları]
+* genel bir terim olarak yapı taşları, bunların özel bir biçimi olarak bileşenler
+* yapılar, {glossary_url}cross-cutting-concern[kesişen ilgi alanları], ilkeler
+* mimari kararlar ve bunların tüm sistem ve yaşam döngüsü üzerindeki sonuçları
+
+// end::TR[]
+
 ===== {references}
 <<iso42010>>, <<bass>>, <<kruchten>>, <<starkelorz>>
 

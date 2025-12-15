@@ -43,3 +43,25 @@ Coordinate and agree on any necessary refinements with the corresponding stakeho
 They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.
 
 // end::EN[]
+
+// tag::TR[]
+[[LG-01-04]]
+==== LG 01-04: Yazılım Mimarlarının Görev ve Sorumluluklarını Anlamak (R1)
+
+Yazılım mimarları, gereksinimleri karşılamaktan ve çözümün mimari tasarımını oluşturmaktan sorumludur.
+Kullanılan gerçek yaklaşıma veya süreç modeline bağlı olarak, bu sorumluluğu proje yönetiminin veya diğer rollerin genel proje sorumluluğuyla uyumlu hale getirmelidirler.
+
+Yazılım mimarlarının görev ve sorumlulukları:
+
+* gereksinimleri ve sınır koşullarını netleştirmek ve sorgulamak.
+Gerekli düzeltmeleri ilgili paydaşlarla koordine etmek ve üzerinde anlaşmak.
+* yapı taşları arasındaki bağımlılıkları ve arayüzleri belirlerken sistemin yapı taşlarına nasıl ayrıştırılacağına karar vermek
+* kesişen ilgi alanlarına karar vermek (örneğin kalıcılık, iletişim, GUI)
+* yazılım mimarisini görünümler, mimari örüntüler, kesişen ilgi alanları ve teknik konulara dayalı olarak iletmek ve belgelemek
+* mimarinin gerçekleştirilmesine ve uygulanmasına eşlik etmek; gerekirse ilgili paydaşlardan gelen geri bildirimleri mimariye entegre etmek; kaynak kodu ve yazılım mimarisinin tutarlılığını gözden geçirmek ve sağlamak
+* yazılım mimarisini analiz etmek ve değerlendirmek, özellikle gereksinimlerin karşılanmasını içeren riskler açısından.
+* mimari kararların sonuçlarını belirlemek, vurgulamak ve diğer paydaşlara gerekçelendirmek
+
+Tüm görevlerde iterasyonların gerekliliğini bağımsız olarak fark etmeli ve uygun ve ilgili geri bildirim için olanakları belirtmelidirler.
+
+// end::TR[]

@@ -73,3 +73,43 @@ The sections "Terms and Concepts" of each chapter list words that are associated
 Some of them are used in the descriptions of learning goals.
 
 // end::EN[]
+
+// tag::TR[]
+=== Öğrenme Hedefleri ve Sınav İçin Önemi
+Müfredatın bölümleri, önceliklendirilmiş öğrenme hedefleri setine göre yapılandırılmıştır.
+Her öğrenme hedefi için, bu öğrenme hedefinin veya alt öğelerinin sınav için önemi açıkça belirtilmiştir (aşağıdaki tabloda gösterilen R1, R2, R3 sınıflandırmasıyla).
+Her öğrenme hedefi, anahtar terim ve kavramları dahil olmak üzere öğretilecek içerikleri tanımlar.
+
+Sınav için önem açısından, bu müfredatta aşağıdaki kategoriler kullanılmaktadır:
+
+
+[cols="1,2,6,2",options="header"]
+|===
+| ID
+| Öğrenme hedefi kategorisi
+| Anlam
+| Sınav için önem
+
+| R1
+| Yapabilmek
+| Bunlar, katılımcıların kursu tamamladıktan sonra bağımsız olarak uygulamaya koyabilmeleri beklenen içeriklerdir. Kurs kapsamında bu içerikler alıştırmalar ve tartışmalar yoluyla ele alınacaktır.
+| İçerikler sınavda *yer alacaktır*.
+
+| R2
+| Anlamak
+| Bunlar, katılımcıların prensip olarak anlaması beklenen içeriklerdir.
+Normalde eğitimde alıştırmaların birincil odağı olmayacaktır.
+| İçerikler sınavda *yer alabilir*.
+
+| R3
+| Bilmek
+| Bu içerikler (terimler, kavramlar, yöntemler, pratikler veya benzerleri) anlayışı geliştirebilir ve konuyu motive edebilir.
+Gerektiğinde eğitimde ele alınabilirler.
+| İçerikler sınavda *yer almayacaktır*.
+|===
+
+Gerektiğinde, öğrenme hedefleri ek okuma, standartlar veya diğer kaynaklara referanslar içerir.
+Her bölümün "Terimler ve Kavramlar" kısımları, bölümün içeriğiyle ilişkili kelimeleri listeler.
+Bunların bazıları öğrenme hedeflerinin açıklamalarında kullanılır.
+
+// end::TR[]

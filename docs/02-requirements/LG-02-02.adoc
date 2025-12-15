@@ -87,5 +87,48 @@ Software architects are able to describe how those factors can influence archite
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-02-02]]
+==== LG 02-02 [önceki LG 2-3]: Gereksinimleri ve Sınır Koşullarını Netleştirmek ve Dikkate Almak (R1-R3)
+
+Yazılım mimarları, hem gereksinimlerin hem de sınır koşullarının mimari ve mimari çalışma üzerinde etkisi olabileceğini anlar (R2).
+Gereksinimleri ve sınır koşullarını netleştirebilir ve mimari tasarım ve geliştirme sürecinde bunları dikkate alabilirler.
+Kararlarının yeni gereksinimler getirebileceğini veya mevcut gereksinimlerde değişiklik gerektirebileceğini anlarlar.
+
+Aşağıdakilerin etkisini tanımalı ve hesaba katmalıdırlar:
+
+* aşağıdaki gibi ürün ile ilgili gereksinimler (R1)
+** fonksiyonel gereksinimler
+** {glossary_url}quality-requirement[kalite gereksinimleri]
+
+* aşağıdaki gibi teknolojik sınır koşulları
+** mevcut veya planlanan donanım ve yazılım altyapısı (R1)
+** veri yapıları ve arayüzler üzerindeki teknolojik sınırlamalar (R2)
+** referans mimariler, kütüphaneler, bileşenler ve çerçeveler (R1)
+** programlama dilleri (R2)
+
+* aşağıdaki gibi organizasyonel sınır koşulları
+** geliştirme ekiplerinin ve müşterinin organizasyon yapısı (R1), özellikle Conway yasası (R2)
+** şirket ve ekip kültürleri (R3)
+** ortaklıklar ve işbirliği anlaşmaları (R2)
+** standartlar, yönergeler ve süreç modelleri (örneğin onay ve sürüm süreçleri) (R2)
+** bütçe, zaman ve personel gibi mevcut kaynaklar (R1)
+** personelin müsaitliği, beceri seti ve bağlılığı (R1)
+
+* aşağıdaki gibi düzenleyici sınır koşulları (R2)
+** yerel ve uluslararası yasal sınırlamalar
+** sözleşme ve sorumluluk meseleleri
+** veri koruma ve gizlilik yasaları
+** uyumluluk meseleleri veya ispat yükü sağlama yükümlülükleri
+
+* aşağıdaki gibi trendler (R3)
+** pazar trendleri
+** teknoloji trendleri (örneğin bulut, mikroservisler, konteyner, üretken yapay zeka veya LLM'ler)
+** metodoloji trendleri (örneğin Çevik)
+
+Yazılım mimarları, bu faktörlerin mimari kararları nasıl etkileyebileceğini açıklayabilir ve bazıları için örnekler vererek değişen etkileyen faktörlerin sonuçlarını detaylandırabilir (R2).
+
+// end::TR[]
+
 ===== {references}
 <<IREBFoundation>>, <<bass>>, <<gharbietal>>, <<starke>>, <<richardsfundamentals>>, <<pohl>>

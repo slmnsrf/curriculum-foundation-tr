@@ -61,6 +61,36 @@ See also <<LG-02-03>>, <<LG-02-04>>.
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-05-02]]
+==== LG 05-02 [önceki LG 4-3 ve 4-4]: Bir Yazılım Sisteminin Kalitelerini Analiz Etmek (R1, R3)
+
+Yazılım mimarları
+
+* belirli bir yazılım sistemi için herhangi bir kalite özelliği için farklı analiz yöntemlerinin mevcut olabileceğini anlar, örneğin
+** kabul testi sonuçlarının analizi (R1)
+** çalışma zamanı davranışının nicel ölçümü (R1)
+** görüşmeler, anketler, sızma testleri vb. yoluyla nitel değerlendirme (R1)
+** senaryo tabanlı analiz (R1)
+** gelen ve giden bağımlılıkların derecesi gibi bağlılık için mimari metrikler (R1)
+** maliyet-fayda analizi (R3)
+** Mimari Ödünleşim Analizi Yöntemi <<bass>> (R3)
+
+* kalite analizi için bilgi kaynaklarını bilir:
+** gereksinim dokümantasyonu (R1)
+** mimari dokümantasyonu (R1)
+** mimari ve tasarım modelleri (R1)
+** kaynak kodu (R1)
+** kod satırları, (döngüsel) karmaşıklık gibi kaynak koduyla ilgili metrikler (R1)
+** test senaryoları ve test sonuçları (R1)
+** hatalar ve kaynak kodundaki konumları, özellikle hata kümeleri (R1)
+** sistemin diğer dokümantasyonu, örneğin operasyonel veya test dokümantasyonu (R1)
+** çalışma zamanı olay günlükleri ve metrikleri (R1)
+** bileşen başına değişim oranı gibi revizyon geçmişi (R3)
+
+Ayrıca bkz. <<LG-02-03>>, <<LG-02-04>>.
+
+// end::TR[]
 
 ===== {references}
 <<bass>>, <<starkelorz>>, <<clementseval>>, <<iso25019>>, <<lilienthal-en>>

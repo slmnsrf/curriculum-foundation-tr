@@ -11,6 +11,14 @@ Softwarearchitekt:innen können beurteilen, ob die Systemimplementierung mit dem
 [[LG-05-03]]
 ==== LG 05-03: Evaluate Conformance to Architectural Decisions (R2)
 
-Software architects are able to assess whether the system’s implementation aligns with the architectural design and decisions, using methods such as code and architecture reviews or tool-supported analysis.
+Software architects are able to assess whether the system's implementation aligns with the architectural design and decisions, using methods such as code and architecture reviews or tool-supported analysis.
 
 // end::EN[]
+
+// tag::TR[]
+[[LG-05-03]]
+==== LG 05-03: Mimari Kararlara Uygunluğu Değerlendirmek (R2)
+
+Yazılım mimarları, kod ve mimari incelemeleri veya araç destekli analiz gibi yöntemler kullanarak sistemin uygulamasının mimari tasarım ve kararlarla uyumlu olup olmadığını değerlendirebilir.
+
+// end::TR[]

@@ -41,6 +41,26 @@ Software architects know alternative notations to UML diagrams, for example: (R3
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-04-03]]
+==== LG 04-03 [önceki LG 3-3]: Yazılım Mimarisini Tanımlamak İçin Gösterimleri/Modelleri Açıklamak ve Uygulamak (R2-R3)
+
+Yazılım mimarları mimari görünümleri tanımlamak için en azından aşağıdaki UML diyagramlarını bilir:
+
+* sınıf, paket, bileşen (tümü R2) ve bileşik yapı diyagramları (R3)
+* dağıtım diyagramları (R2)
+* sıra ve etkinlik diyagramları (R2)
+* durum makinesi diyagramları (R3)
+
+Yazılım mimarları UML diyagramlarına alternatif gösterimleri bilir, örneğin: (R3)
+
+* Archimate
+* SysML
+* C4, bkz. <<brownc4>>
+* Varlık-ilişki diyagramları, bkz. <<erd>>
+* çalışma zamanı görünümleri için örneğin akış şemaları, numaralı listeler veya iş süreci modelleme notasyonu (BPMN).
+
+// end::TR[]
 
 ===== {references}
 <<uml>>, <<archimate>>, <<sysml>>, <<brownc4>>, <<erd>>

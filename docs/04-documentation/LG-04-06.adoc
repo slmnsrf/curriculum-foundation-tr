@@ -17,3 +17,12 @@ Software architects are able to document and specify both internal and external 
 
 See also <<LG-03-07>>.
 // end::EN[]
+
+// tag::TR[]
+[[LG-04-06]]
+==== LG 04-06 [önceki LG 3-7]: Arayüzleri Dokümante Etmek (R1)
+
+Yazılım mimarları hem iç hem de dış arayüzleri dokümante edebilir ve tanımlayabilir.
+
+Ayrıca bkz. <<LG-03-07>>.
+// end::TR[]

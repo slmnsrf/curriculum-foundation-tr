@@ -65,3 +65,35 @@ influencing factors
 
 // end::EN[]
 
+// tag::TR[]
+== Yazılım Mimarisinin Temel Kavramları
+
+|===
+| Süre: 120 dk. | Alıştırmalar: yok
+|===
+
+
+=== Amaç
+Bu bölümün amacı, eğitim katılımcılarını yazılım mimarisindeki temel terimler ve kavramlar hakkında temel bir anlayışla donatmaktır.
+Çeşitli tanımları ve bunların ortak noktalarını öğrenecek, yazılım mimarisinin temel hedeflerini ve faydalarını anlayacak ve bunları diğer paydaşlara aktarabileceklerdir.
+Ayrıca, yazılım mimarlarının en önemli görev ve sorumluluklarını adlandırıp açıklayabileceklerdir.
+Ek olarak, bu bölüm yazılım mimarlarının daha geniş mimari bağlamdaki rolünü ve diğer paydaşlarla etkileşimlerini ele alarak, katılımcıları çeşitli yazılım geliştirme projelerine etkin bir şekilde katkıda bulunmaya hazırlar.
+
+=== İlgili Terimler
+{glossary_url}software-architecture[Yazılım mimarisi];
+mimari alanlar; {glossary_url}structure[yapı];
+{glossary_url}building-block[yapı taşları];
+{glossary_url}component[bileşenler];
+{glossary_url}interface[arayüzler];
+{glossary_url}relationship[ilişkiler];
+{glossary_url}cross-cutting-concern[kesişen ilgi alanları];
+yazılım mimarisinin faydaları;
+yazılım mimarları ve sorumlulukları;
+görevler ve gerekli beceriler;
+paydaşlar ve ilgi alanları;
+gereksinimler;
+{glossary_url}constraint[sınır koşulları];
+etkileyen faktörler
+
+// end::TR[]
+

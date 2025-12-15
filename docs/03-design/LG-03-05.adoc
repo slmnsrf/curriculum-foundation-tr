@@ -24,3 +24,15 @@ Software architects understand the necessity of iterations, especially when deci
 * understand the necessity for feedback on architecture decisions. (R1)
 * can systematically obtain feedback from other stakeholders. (R2)
 // end::EN[]
+
+// tag::TR[]
+[[LG-03-05]]
+==== LG 03-05 [önceki LG 1-6]: Geri Bildirim Döngüleri ve Riskler Arasındaki İlişki (R1, R2)
+
+Yazılım mimarları, özellikle belirsizlik karşısında kararlar alındığında iterasyonların gerekliliğini anlar. Onlar:
+
+* iteratif yaklaşımların mimari kararlar üzerindeki etkisini (riskler ve öngörülebilirlik açısından) açıklayabilir. (R1)
+* iteratif olarak çalışabilir ve karar verebilir. (R1)
+* mimari kararlara ilişkin geri bildirimin gerekliliğini anlar. (R1)
+* diğer paydaşlardan sistematik olarak geri bildirim alabilir. (R2)
+// end::TR[]

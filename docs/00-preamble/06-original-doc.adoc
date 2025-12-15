@@ -21,3 +21,14 @@ The document is maintained in a https://github.com/isaqb-org/curriculum-foundati
 Please report any issues in our https://github.com/isaqb-org/curriculum-foundation/issues[public issue tracker] on https://github.com/isaqb-org/curriculum-foundation/issues.
 
 // end::EN[]
+
+// tag::TR[]
+=== Güncel Sürüm ve Herkese Açık Depo
+
+Bu belgenin en güncel sürümünü https://isaqb-org.github.io/ adresindeki resmi https://public.isaqb.org/curriculum-foundation/[indirme sayfasında] bulabilirsiniz.
+
+Belge, https://github.com/isaqb-org/curriculum-foundation adresindeki herkese açık ana depoda tutulmaktadır, tüm değişiklikler ve düzenlemeler herkese açıktır. Belgenin Türkçe versiyonu (bu versiyon) https://github.com/slmnsrf/curriculum-foundation-tr[https://github.com/slmnsrf/curriculum-foundation-tr] deposunda tutulmakta ve güncellenmektedir.
+
+Lütfen sorunları https://github.com/isaqb-org/curriculum-foundation/issues adresindeki https://github.com/isaqb-org/curriculum-foundation/issues[herkese açık sorun takipçimize] bildirin.
+
+// end::TR[]

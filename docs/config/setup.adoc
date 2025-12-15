@@ -29,6 +29,13 @@ ifeval::["{language}" == "EN"]
 :glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
 endif::[]
 
+ifeval::["{language}" == "TR"]
+:curriculum-header-title: iSAQB Foundation Level Müfredat
+
+// Turkish uses English glossary (no Turkish glossary available at isaqb.org)
+:glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
+endif::[]
+
 
 ifeval::["{language}" == "DE;EN"]
 [NOTE]

@@ -35,5 +35,23 @@ Software architects know:
 * that it is impossible to determine the temporal order of events in a distributed system
 // end::EN[]
 
+// tag::TR[]
+[[LG-03-12]]
+==== LG 03-12 [önceki LG 1-11]: Dağıtık Sistemlerin Zorluklarını Bilmek (R3)
+
+Yazılım mimarları şunları yapabilir:
+
+* belirli bir yazılım mimarisinde dağıtımı belirlemek
+* belirli bir iş problemi için tutarlılık kriterlerini analiz etmek
+* dağıtık bir sistemdeki olayların nedenselliğini açıklamak
+
+Yazılım mimarları şunları bilir:
+
+* dağıtık bir sistemde iletişim başarısız olabilir
+* gerçek dünya veritabanlarında tutarlılıkla ilgili sınırlamalar
+* "bölünmüş beyin" sorununun ne olduğu ve neden zor olduğu
+* dağıtık bir sistemde olayların zamansal sırasını belirlemenin imkansız olduğu
+// end::TR[]
+
 ===== {references}
 <<distributedsystems>>, <<buschmannb>>, <<fordhardparts>>, <<miller-distributed>>

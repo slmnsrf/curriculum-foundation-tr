@@ -25,5 +25,17 @@ Software architects:
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-02-04]]
+==== LG 02-04 [önceki LG 4-2]: Kalitelere İlişkin Gereksinimleri Formüle Etmek (R1-R3)
+
+Yazılım mimarları:
+
+* gereksinimleri netleştirmek, mimari değerlendirmeler için girdi sağlamak vb. gibi çeşitli amaçlar için bağlam, uyaran, yanıt ve ölçüm içeren verilen kaliteler için senaryolar formüle edebilir (R1)
+* belirli bir kalite için bir gereksinimin bir analiz yöntemi belirtmesi gerektiğini anlar (bkz. <<LG-05-02>>) (R1)
+* bir metriğin hedef olarak kullanılmasının geçersiz kılınmasına yol açabileceğini bilir (R2), örneğin Goodhart yasasında açıklandığı gibi (R3)
+
+// end::TR[]
+
 ===== {references}
 <<bass>>, <<q42>>, <<iso25010>>

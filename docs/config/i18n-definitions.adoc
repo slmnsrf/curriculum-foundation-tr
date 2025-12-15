@@ -9,3 +9,9 @@
 :introduction: Introduction
 :references: References
 // end::EN[]
+
+// tag::TR[]
+:learning_goals: Öğrenme Hedefleri
+:introduction: Giriş
+:references: Referanslar
+// end::TR[]

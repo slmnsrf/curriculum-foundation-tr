@@ -29,6 +29,20 @@ Software architects know:
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-04-09]]
+==== LG 04-09 [önceki LG 3-9]: Dokümantasyon İçin Ek Kaynakları ve Araçları Bilmek (R3)
+
+Yazılım mimarları şunları bilir:
+
+* yazılım mimarilerinin tanımı için yayınlanmış çeşitli çerçevelerin temelleri, örneğin:
+** ISO/IEC/IEEE 42010,
+** arc42,
+** C4, bkz. <<brownc4>>
+* yazılım mimarilerinin oluşturulması, dokümante edilmesi ve incelenmesi için kontrol listesi fikirleri ve örnekleri
+* mimari dokümantasyonu oluşturmak ve sürdürmek için olası araçlar
+
+// end::TR[]
 
 ===== {references}
 <<iso42010>>, <<arc42>>, <<brownc4>>

@@ -75,5 +75,43 @@ See also <<LG-04-06>>.
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-03-07]]
+==== LG 03-07 [önceki LG 2-9]: Arayüzleri Tasarlamak ve Tanımlamak (R1-R3)
+
+Yazılım mimarları, mimari yapı taşları arasında veya sistem ile harici öğeler arasındaki etkileşim için arayüzlerin kritik önemini bilir.
+Bu tür arayüzleri tasarlayabilir ve belirleyebilirler.
+
+Şunları bilirler:
+
+* arayüzlerin istenen özellikleri ve bunları tasarımda elde edebilirler (R1):
+** öğrenmesi kolay, kullanması kolay, genişletmesi kolay
+** kötüye kullanması zor
+** kullanıcılar veya bunları kullanan yapı taşları açısından işlevsel olarak eksiksiz.
+
+* iç ve dış arayüzlere farklı davranma gerekliliği (R2)
+
+* arayüz ve uygulama arasındaki ayrım (R1):
+** gerektiğinde uygulamalar değiştirilebilir.
+
+* arayüzlerin farklı özellikleri, örneğin (R3):
+** Taşıma kanalları (örneğin: OSI 7 katmanlı modelinin parçası olarak TCP/IP, paylaşımlı bellek)
+** iç veya dış
+** yerel veya uzak
+** senkron veya asenkron
+** ikili (yalnızca makine tarafından okunabilir) veya metinsel (insan tarafından da okunabilir)
+** durumsuz veya durumlu
+** noktadan noktaya veya çok noktalı (yayın veya çoklu yayın)
+** Fonksiyon çağrısı (örn. Remote Procedure Call) veya mesaj değişimi
+** Toplu, istek/yanıt veya akış
+
+* uzak {glossary_url}service[servis arayüzleri] için uygulama yaklaşımları, örneğin (R3):
+** prosedür odaklı (örn. GraphQL veya WS-*/SOAP tabanlı web servisleri)
+** kaynak odaklı (REST, REpresentational State Transfer)
+
+Ayrıca bkz. <<LG-04-06>>.
+
+// end::TR[]
+
 ===== {references}
 <<zimmermann-api>>, <<geewax>>

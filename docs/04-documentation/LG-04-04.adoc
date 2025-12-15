@@ -18,6 +18,15 @@ Note: The title of this learning goal has been chosen intentionally and is not a
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-04-04]]
+==== LG 04-04 [yeni]: Öğrenme Hedefi Bulunamadı (R3)
+
+Yazılım mimarları beklenmedik durumlarla zarif bir şekilde başa çıkabilir.
+
+Not: Bu öğrenme hedefinin başlığı kasıtlı olarak seçilmiştir ve teknik bir hata değildir.
+
+// end::TR[]
 
 ===== {references}
 <<ietf-http>>

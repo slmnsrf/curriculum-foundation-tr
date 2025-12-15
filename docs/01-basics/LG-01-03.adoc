@@ -29,6 +29,21 @@ They know how to analyze the impact of architectural decisions on the long-term 
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-01-03]]
+==== LG 01-03: Yazılım Mimarisinin Uzun Vadeli Etkisini Bilmek (R3)
+
+Yazılım mimarları şunları bilir:
+
+* mimari kararlar ile sistemin gelecekteki uyarlanabilirliği ve bakım yapılabilirliği arasındaki ilişki
+* gereksinimler, teknolojiler veya sistem ortamındaki değişikliklerin mevcut mimari kararlar üzerindeki etkisi
+* mimari kararların sistemin çeşitli kalite özellikleri üzerindeki uzun vadeli sonuçları
+* BT sistemleri ile desteklenen iş ve operasyonel süreçler arasındaki karşılıklı bağımlılıklar
+
+Mimari kararların bir sistemin uzun vadeli evrimine etkisini nasıl analiz edeceklerini bilirler.
+
+// end::TR[]
+
 ===== {references}
 
 <<bass>>, <<lehman>>, <<lehmanwiki>>, <<lilienthal>>, <<ford>>, <<rajlich>>, <<richardsfundamentals>>

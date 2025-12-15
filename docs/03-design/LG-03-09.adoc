@@ -45,5 +45,27 @@ Software architects know essential sources for design patterns, such as
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-03-09]]
+
+==== LG 03-09 [önceki LG 2-5]: Önemli Tasarım Örüntülerini Tanımlamak, Açıklamak ve Uygun Şekilde Uygulamak (R3)
+
+Yazılım mimarları aşağıdaki tasarım örüntülerinin birkaçını tanımlayabilir, mimari ve belirli sistemler için önemlerini açıklayabilir ve örnekler verebilir.
+
+* {glossary_url}combinator[Combinator]
+* {glossary_url}adapter[Adapter], {glossary_url}facade[Facade] ve {glossary_url}proxy[Proxy] gibi arayüz örüntüleri.
+  Mimarlar bu örüntülerin belirli bir programlama dilinden veya çerçeveden bağımsız olarak kullanılabileceğini bilmelidir.
+* {glossary_url}interpreter[Interpreter]
+* {glossary_url}observer[Observer]
+* {glossary_url}template-method[Template Method] ve {glossary_url}strategy[Strategy]
+* {glossary_url}visitor[Visitor]
+
+Yazılım mimarları tasarım örüntüleri için temel kaynakları bilir, örneğin
+<<gof,GOF>> ve <<buschmanna,POSA>>.
+
+
+
+// end::TR[]
+
 ===== {references}
 <<gof>>, <<buschmanna>>

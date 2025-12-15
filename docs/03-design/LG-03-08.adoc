@@ -75,5 +75,43 @@ They know:
 * additional sources of patterns that relate to their specific technical or application domain.
 // end::EN[]
 
+// tag::TR[]
+[[LG-03-08]]
+
+==== LG 03-08 [önceki LG 2-5]: Önemli Mimari Örüntüleri Tanımlamak, Açıklamak ve Uygun Şekilde Uygulamak (R1, R3)
+
+Yazılım mimarları aşağıdaki mimari örüntüleri açıklayabilir ve örnekler verebilir (R1):
+
+* {glossary_url}layer[Layers]
+* {glossary_url}pipes-and-filters[Pipes and Filters]
+* {glossary_url}microservice[Microservices]
+
+Yazılım mimarları aşağıdaki mimari örüntülerin birkaçını açıklayabilir,
+somut sistemler için önemlerini anlatabilir ve örnekler verebilir. (R3)
+
+* {glossary_url}blackboard[Blackboard]
+* {glossary_url}broker[Broker]
+* {glossary_url}cqrs[CQRS (Command-Query-Responsibility-Segregation)]
+* {glossary_url}event-sourcing[Event Sourcing]
+* {glossary_url}dependency-injection[Dependency Injection] (ayrıca bkz. <<LG-03-06>>)
+* Entegrasyon ve mesajlaşma örüntüleri (örn. <<hohpe>>)
+* {glossary_url}remote-procedure-call[Remote Procedure Call]
+* {glossary_url}model-view-controller[MVC] (Model View Controller),
+  {glossary_url}model-view-viewmodel[MVVM] (Model View ViewModel),
+  {glossary_url}model-view-update[MVU] (Model View Update),
+  {glossary_url}presentation-abstraction-control[PAC] (Presentation Abstraction Control)
+* {glossary_url}plugin[Plugin]
+* {glossary_url}ports-and-adapters[Ports and Adapters] (eşanlamlılar: Onion Architecture, Hexagonal Architecture, Clean Architecture)
+* {glossary_url}service-oriented-architecture[SOA] (Service-Oriented Architecture)
+
+Yazılım mimarları mimari örüntüler için temel kaynakları bilir, örneğin POSA (örn. <<buschmanna>>) ve PoEAA (<<fowler>>) (bilgi sistemleri için). (R3)
+
+Şunları bilirler:
+
+* örüntülerin, verilen bağlamlarda verilen problemler ve gereksinimler için belirli kalitelere ulaşmanın bir yolu olduğunu.
+* farklı örüntü kategorileri olduğunu.
+* kendi özel teknik veya uygulama alanlarıyla ilgili ek örüntü kaynakları.
+// end::TR[]
+
 ===== {references}
 <<buschmanna>>, <<buschmannb>>, <<eilebrecht>>, <<fowler>>, <<gof>>, <<hohpe>>, <<pethuru>>

@@ -35,3 +35,20 @@ By understanding various analysis methods, such as acceptance testing, architect
 
 Architecture analysis; Risk identification; Quality analysis methods; Scenarios; Scenario-based analysis; Metrics; Tool-supported analysis
 // end::EN[]
+
+// tag::TR[]
+== Yazılım Mimarilerinin Analizi ve Değerlendirmesi
+
+|===
+| Süre: 60 dk. | Alıştırmalar: 30 dk.
+|===
+
+=== Amaç
+Bu bölümün amacı, yazılım mimarlarını mimari analizi etkili bir şekilde gerçekleştirmek için gereken beceri ve bilgilerle donatmaktır.
+Riskleri belirlemeyi, mimari kararlara uygunluğu değerlendirmeyi ve bir sistemin genel kalitesini tasarım ve uygulamasına göre değerlendirmeyi öğrenirler.
+Kabul testi, mimari metrikler, senaryo tabanlı analiz ve maliyet-fayda analizi gibi çeşitli analiz yöntemlerini anlayarak, mimarlar yazılım mimarisinin paydaş gereksinimlerini karşıladığından ve amaçlanan tasarımla uyumlu olduğundan emin olabilir.
+
+=== İlgili Terimler
+
+Mimari analizi; Risk belirleme; Kalite analizi yöntemleri; Senaryolar; Senaryo tabanlı analiz; Metrikler; Araç destekli analiz
+// end::TR[]

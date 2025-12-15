@@ -65,3 +65,35 @@ In addition, such trainings cover:
 
 // end::EN[]
 
+// tag::TR[]
+=== Bu Müfredat Ne İçerir
+Certified Professional for Software Architecture - Foundation Level (CPSA-F) için hazırlanan bu müfredat, yazılım mimarı rolünü üstlenmek için öğrenilmesi gereken temel öğrenme hedeflerini özetlemektedir.
+
+Müfredat, yazılım mimarisinin bir rol olarak temel faaliyetleri ve sorumlulukları doğrultusunda yapılandırılmıştır:
+
+* Paydaş gereksinimlerini ve sınır koşullarını netleştirmek
+* Yazılım mimarilerini tasarlamak ve geliştirmek, bu süreçte yapısal ve kavramsal kararlar almak
+* Mimariyi çeşitli paydaşlar için iletmek ve belgelemek
+* Yazılım mimarilerini analiz etmek ve değerlendirmek
+
+
+=== Foundation Level Eğitimi Ne Kazandırır?
+Lisanslı Certified Professional for Software Architecture - Foundation Level (CPSA-F) eğitimleri, katılımcılara küçük ve orta ölçekli sistemler için ilgili gereksinimleri karşılayacak yeterlilikte bir yazılım mimarisini tasarlamak, belirlemek ve belgelemek için gereken bilgi ve becerileri sağlayacaktır.
+Katılımcılar, bireysel pratik deneyimleri ve mevcut becerilerine dayanarak, mevcut bir sistem vizyonundan ve yeterince ayrıntılı gereksinimlerden mimari kararlar çıkarmayı öğreneceklerdir.
+CPSA-F eğitimleri, belirli geliştirme süreçlerinden bağımsız olarak yazılım mimarilerinin tasarımı, dokümantasyonu ve değerlendirmesi için yöntem ve ilkeler öğretir.
+
+Eğitimin odak noktası aşağıdaki becerilerin kazandırılmasıdır:
+
+* Gereksinimler, yönetim, geliştirme, operasyonlar ve test alanlarından paydaşlarla temel mimari kararları tartışmak ve uzlaşmak
+* Yazılım mimarisinin temel faaliyetlerini anlamak ve bunları küçük-orta ölçekli sistemler için gerçekleştirmek
+* Mimari görünümler, mimari örüntüler ve teknik kavramlara dayalı olarak yazılım mimarilerini belgelemek ve iletmek.
+
+Ayrıca bu eğitimler şunları kapsar:
+
+* Yazılım mimarisi terimi ve anlamı
+* Yazılım mimarlarının görev ve sorumlulukları
+* Geliştirme projelerinde yazılım mimarlarının rolleri
+* Yazılım mimarileri geliştirmek için güncel yöntem ve teknikler.
+
+// end::TR[]
+

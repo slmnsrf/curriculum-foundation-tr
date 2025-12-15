@@ -35,5 +35,23 @@ Software architects
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-01-07]]
+==== LG 01-07: Veri ve Veri Modellerinin Önemi (R2)
+
+Yazılım mimarları, veri ve veri modellerinin (fiziksel gösterimden bağımsız olarak) mimari için önemini anlar.
+Onlar:
+
+* mimari üzerinde önemli etkisi olan veri modellerini belirleyebilir.
+* bu tür veri modellerini sistematik olarak tasarlayabilir.
+* veri modellemede {glossary_url}product[ürünler] ve {glossary_url}sum[toplamlar] arasındaki farkı anlar.
+
+Yazılım mimarları:
+
+* veri modellerini veritabanları, dosyalar ve iletim protokollerindeki gösterimlerinden ayırmanın önemini anlar.
+* verilerin mimari kararlar üzerindeki etkisini, örneğin depolama, güvenlik, ölçeklenebilirlik, güvenilirlik, performans vb. açısından açıklayabilir.
+
+// end::TR[]
+
 ===== {references}
 <<felleisenetal>>, <<sperberklaeren>>, <<sperberwehr>>, <<kleppmann>>, <<fordhardparts>>

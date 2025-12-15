@@ -23,3 +23,16 @@ Software architects:
 * can identify and communicate possible trade-offs between designs and their associated risks
 
 // end::EN[]
+
+// tag::TR[]
+[[LG-03-01]]
+==== LG 03-01 [önceki LG 2-8, yeni içerik]: Mimari Yoluyla Gereksinimleri Karşılamak (R1)
+
+Yazılım mimarları:
+
+* mimari faaliyetlerin belirli kaliteleri elde etme veya iyileştirme ihtiyacı tarafından yönlendirilmesi gerektiğini anlar
+* gereksinimleri karşılamaya uygun bir mimari tasarım önerebilir
+* belirli mimari faaliyetler veya kararlar yoluyla hangi kaliteleri iyileştireceklerini değerlendirebilir
+* tasarımlar arasındaki olası ödünleşimleri ve bunlarla ilişkili riskleri belirleyip iletebilir
+
+// end::TR[]

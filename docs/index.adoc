@@ -34,6 +34,10 @@ The **Foundation Level** curriculum is currently maintained and published in bot
 | not available
 | link:{curriculumFileName}-pt.pdf[PDF]
 
+| Turkish
+| not available
+| link:{curriculumFileName}-tr.pdf[PDF]
+
 |===
 
 

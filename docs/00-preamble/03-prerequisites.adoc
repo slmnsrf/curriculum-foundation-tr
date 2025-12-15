@@ -73,4 +73,41 @@ Furthermore, the following will be useful for understanding several concepts:
 
 // end::EN[]
 
+// tag::TR[]
+=== Ön Koşullar
+
+====
+iSAQB e. V., sertifikasyon sınavlarında aşağıdaki ön koşulları ilgili sorularla kontrol edebilir.
+====
+
+Katılımcılar aşağıdaki bilgi ve/veya deneyime sahip olmalıdır.
+Özellikle, bir ekipte yazılım geliştirme konusunda önemli pratik deneyim, öğrenme materyalini anlamak ve başarılı sertifikasyon için önemli bir ön koşuldur.
+
+* örgün eğitim dışında birden fazla sistemin ekip tabanlı geliştirilmesi yoluyla kazanılmış, yazılım geliştirme alanında 18 aydan fazla pratik deneyim
+* en az bir üst düzey programlama dilinde bilgi ve pratik deneyim, özellikle:
+** aşağıdaki kavramlar:
+*** modülerleştirme (paketler, isim alanları vb.)
+*** parametre geçişi (_değer ile çağrı, referans ile çağrı_)
+*** _kapsam_, yani tür ve değişken bildirimi ve tanımı
+** tür sistemlerinin temelleri (statik ve dinamik türleme, jenerik veri türleri)
+** yazılımda hata ve istisna işleme
+** global durum ve global değişkenlerin potansiyel sorunları
+
+* Temel bilgiler:
+** modelleme ve soyutlama
+** algoritmalar ve veri yapıları (Listeler, Ağaçlar, HashTable, Dictionary, Map gibi)
+** UML (sınıf, paket, bileşen ve sıra diyagramları) ve bunların kaynak kodla ilişkisi
+** yazılım test yaklaşımları (örneğin birim ve kabul testleri)
+
+
+Ayrıca, bazı kavramların anlaşılması için aşağıdakiler faydalı olacaktır:
+
+* imperatif, deklaratif, nesne yönelimli ve fonksiyonel programlamanın temelleri ve farkları
+* aşağıdaki alanlarda pratik deneyim:
+** üst düzey bir programlama dili
+** istemci-sunucu sistemleri veya web uygulamaları gibi dağıtık uygulamaların tasarımı ve uygulanması
+** teknik dokümantasyon, özellikle kaynak kodu, sistem tasarımı veya teknik kavramların belgelenmesi
+
+// end::TR[]
+
 

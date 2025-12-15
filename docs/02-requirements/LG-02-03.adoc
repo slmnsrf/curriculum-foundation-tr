@@ -51,6 +51,31 @@ Software architects can explain that:
 They understand that a single requirement might pertain to several qualities.
 // end::EN[]
 
+// tag::TR[]
+[[LG-02-03]]
+==== LG 02-03 [önceki LG 4-1]: Bir Yazılım Sisteminin Kalitelerini Anlamak ve Açıklamak (R1)
+
+Yazılım mimarları, "kalite" teriminin farklı bağlamlarda farklı kullanıldığını bilir:
+
+* kalite yönetimi bağlamında "mükemmellik" anlamında ve
+* diğerlerinde "(bir yazılım sisteminin) belirli bir özelliği" anlamında.
+
+Bu öğrenme hedefi ikincisine atıfta bulunur.
+
+Yazılım mimarları şunları açıklayabilir:
+
+* yazılım sistemlerinin kalitelerini kategorize eden çeşitli taksonomiler mevcuttur
+* bazı kategorizasyonlar işlevsellik ile kalite arasında ayrım yapar, örneğin IREB <<IREBFoundation>>
+* yazılım mimarisi bir yazılım sisteminin kalitelerini etkileyebilir
+* bir kaliteyi etkilemek diğerlerini etkileyebilir ve ödünleşimler gerektirebilir, örneğin:
+** yapılandırılabilirlik ile güvenilirlik
+** bellek gereksinimleri ile performans verimliliği
+** güvenlik ile kullanılabilirlik
+** çalışma zamanı esnekliği ile bakım yapılabilirlik.
+
+Tek bir gereksinimin birkaç kaliteyle ilgili olabileceğini anlarlar.
+// end::TR[]
+
 ===== {references}
 
 <<IREBFoundation>>, <<iso25010>>, <<bass>>, <<q42>>

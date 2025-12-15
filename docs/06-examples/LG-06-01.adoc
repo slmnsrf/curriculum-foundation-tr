@@ -12,5 +12,12 @@ Software architects are expected to recognize and comprehend the correlation bet
 
 // end::EN[]
 
+// tag::TR[]
+[[LG-06-01]]
+==== LG 06-01 [önceki LG 5-1]: Gereksinimler, Sınır Koşulları ve Çözümler Arasındaki İlişkiyi Bilmek (R3)
+Yazılım mimarlarının en az bir örnek kullanarak gereksinimler ve sınır koşulları ile seçilen çözümler arasındaki ilişkiyi tanıması ve anlaması beklenir.
+
+// end::TR[]
+
 ===== {references}
 <<arc42>>, <<starkeetalarc42>>, <<hruschkaetalarc42>>, <<zoerner>>, <<aosa>>

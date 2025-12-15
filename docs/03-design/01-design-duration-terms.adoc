@@ -68,3 +68,36 @@ iterative design;
 domain-driven design
 
 // end::EN[]
+
+// tag::TR[]
+== Yazılım Mimarilerinin Tasarımı ve Geliştirilmesi
+
+|===
+| Süre: 270 dk. | Alıştırmalar: 90 dk.
+|===
+
+=== Amaç
+Bu bölüm, katılımcıların sistem bağlamının verilen sınır koşullarına saygı gösterirken paydaş gereksinimlerini karşılayacak şekilde mimari kararlar almasını sağlamayı amaçlar.
+Mimari tasarımlar geliştirmeyi, sistem ayrıştırması hakkında bilinçli kararlar almayı ve yapı taşları arasındaki bağımlılıkları şekillendirmeyi öğreneceklerdir.
+Bu amaçla, mimari geliştirmede temel yaklaşımları ve buluşsal yöntemleri uygulamayı öğrenirler.
+Tasarım ilkeleri ve çözüm örüntülerinin önemini fark eder ve bunları uygulayabilirler.
+Ayrıca, bu bölüm kesişen ilgi alanlarının yönetimi, yazılım dağıtımının ilkeleri ve dağıtık sistemlerin zorluklarını ele alır.
+
+=== İlgili Terimler
+Tasarım; tasarım yaklaşımı; {glossary_url}architectural-decision[mimari karar]; görünümler;
+{glossary_url}interface[arayüzler];
+teknik kavramlar ve
+{glossary_url}cross-cutting-concern[kesişen ilgi alanları];
+mimari örüntüler;
+tasarım örüntüleri;
+örüntü dilleri;
+tasarım ilkeleri;
+bağımlılıklar;
+bağlılık;
+bağdaşıklık;
+yukarıdan aşağıya ve aşağıdan yukarıya yaklaşımlar;
+model tabanlı tasarım;
+iteratif tasarım;
+alan odaklı tasarım
+
+// end::TR[]

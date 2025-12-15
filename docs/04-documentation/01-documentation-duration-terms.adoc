@@ -32,3 +32,19 @@ Additionally, participants will learn to document key architectural decisions, i
 === Relevant Terms
 (Architectural) Views; structures; (technical) concepts; documentation; communication; description; alignment with target-groups and stakeholder concerns; structures and templates for description and communication; system context; building blocks; building-block view; runtime view; deployment view; node; channel; deployment artifacts; mapping building blocks onto deployment artifacts; mapping deployment artifacts onto nodes; description of interfaces and design decisions; UML; tools for documentation
 // end::EN[]
+
+// tag::TR[]
+== Yazılım Mimarilerinin Belirtimi ve İletişimi
+
+|===
+| Süre: 180 dk. | Alıştırmalar: 60 dk.
+|===
+
+=== Amaç
+Bu bölümün amacı, katılımcıların yazılım mimarilerini önemli paydaşların ihtiyaçlarını karşılayacak ve geliştirme sürecini destekleyecek şekilde dokümante etmelerini ve iletmelerini sağlamaktır.
+Odak noktası, teknik dokümantasyon için temel gereksinimleri anlamak, mimarileri tanımlamak için uygun modeller ve gösterimler kullanmak ve temel mimari görünümleri uygulamaktır.
+Ayrıca katılımcılar, açık, doğru ve paydaşlarla ilgili dokümantasyonu sağlamak için temel mimari kararları, arayüzleri ve kesişen ilgi alanlarını dokümante etmeyi öğreneceklerdir.
+
+=== İlgili Terimler
+(Mimari) görünümler; yapılar; (teknik) kavramlar; dokümantasyon; iletişim; tanım; hedef kitlelere ve paydaş ilgi alanlarına uyum; tanım ve iletişim için yapılar ve şablonlar; sistem bağlamı; yapı taşları; yapı taşı görünümü; çalışma zamanı görünümü; dağıtım görünümü; düğüm; kanal; dağıtım yapıları; yapı taşlarının dağıtım yapılarına eşlenmesi; dağıtım yapılarının düğümlere eşlenmesi; arayüz ve tasarım kararları tanımı; UML; dokümantasyon araçları
+// end::TR[]

@@ -30,6 +30,22 @@ Software architects are able to use the following architectural views:
 Additional views might be used as needed to address further stakeholder concerns and requirements, such as functional safety, information view,  operational view or user-interface view (R3).
 // end::EN[]
 
+// tag::TR[]
+[[LG-04-05]]
+==== LG 04-05 [önceki LG 3-4]: Mimari Görünümleri Açıklamak ve Kullanmak (R1)
+Yazılım mimarları aşağıdaki mimari görünümleri kullanabilir:
+
+* bağlam görünümü
+  ** sistemlerin dış arayüzlerini içerir
+  ** uygun olduğunda iş ve teknik bağlama göre farklılaştırılır
+
+* yapı taşı veya bileşen görünümü (yazılım yapı taşlarının bileşimi)
+* çalışma zamanı görünümü (dinamik görünüm, çalışma zamanında yazılım yapı taşları arasındaki etkileşim, durum makineleri)
+* dağıtım görünümü (donanım ve teknik altyapı ile yazılım yapı taşlarının altyapıya eşlenmesi)
+
+Ek görünümler, fonksiyonel güvenlik, bilgi görünümü, operasyonel görünüm veya kullanıcı arayüzü görünümü gibi diğer paydaş ilgi alanlarını ve gereksinimlerini ele almak için gerektiğinde kullanılabilir (R3).
+// end::TR[]
+
 ===== {references}
 <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>
 

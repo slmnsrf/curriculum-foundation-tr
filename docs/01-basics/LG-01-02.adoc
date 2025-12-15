@@ -28,3 +28,18 @@ Software architects can justify the following essential goals and benefits of so
 * specify architecturally relevant guidelines for implementation and operation
  
 // end::EN[]
+
+// tag::TR[]
+[[LG-01-02]]
+==== LG 01-02: Yazılım Mimarisinin Hedeflerini ve Faydalarını Anlamak ve Açıklamak (R1)
+
+Yazılım mimarları, yazılım mimarisinin aşağıdaki temel hedeflerini ve faydalarını gerekçelendirebilir:
+
+* sistemlerin tasarımını, uygulamasını, bakımını ve işletimini desteklemek
+* fonksiyonel gereksinimleri karşılamak veya karşılanabilir olmalarını sağlamak
+* güvenilirlik, bakım yapılabilirlik, değiştirilebilirlik, güvenlik, enerji verimliliği vb. gereksinimleri karşılamak
+* sistemin yapı ve kavramlarının tüm ilgili {glossary_url}stakeholder[paydaşlar] tarafından anlaşılmasını sağlamak
+* karmaşıklığı sistematik olarak azaltmak
+* uygulama ve işletim için mimari açıdan önemli yönergeleri belirlemek
+
+// end::TR[]

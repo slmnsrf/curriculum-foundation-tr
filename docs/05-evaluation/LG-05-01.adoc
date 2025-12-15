@@ -23,3 +23,16 @@ Software architects understand that there are different possible reasons for per
 * verify that architecturally relevant stakeholder concerns are addressed
 
 // end::EN[]
+
+// tag::TR[]
+[[LG-05-01]]
+==== LG 05-01: Mimari Analiz Nedenlerini Bilmek (R1)
+
+Yazılım mimarları, mimari analiz gerçekleştirmek için farklı olası nedenler olduğunu anlar, örneğin:
+
+* mimari tasarımdaki riskleri ve olası iyileştirmeleri belirlemek (uygulama öncesinde, sırasında veya sonrasında)
+* mimari tasarımın gereksinimleri karşılayıp karşılamadığını veya karşılayıp karşılamayacağını belirlemek
+* uygulamanın mimari kararlar ve tasarımla uyumluluğunu değerlendirmek
+* mimari açıdan ilgili paydaş ilgi alanlarının ele alındığını doğrulamak
+
+// end::TR[]
