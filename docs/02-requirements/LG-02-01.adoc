@@ -101,21 +101,21 @@ Paydaş ve ilgi alanı örnekleri (R3):
 | örneğin gereksinimlerin karşılanması
 
 | proje yöneticileri
-| örneğin uygulama için gereken süre ve bütçe, seçilen mimari yaklaşımın ilişkili riskleri
+| örneğin uygulama için gereken süre ve bütçe, seçilen mimari yaklaşımına ilişkin riskler
 
 | kalite güvence ve testçiler
-| örneğin bileşenlerin izole testi
+| örneğin bileşenlerin yalıtık testi
 
 | operasyonlar
 | örneğin sistemin işletilmesiyle ilgili altyapı gereksinimleri
 
 |===
 
-Yazılım mimarları, kısa vadeli ve uzun vadeli hedefler arasındaki potansiyel çatışmaları belirleyebilir (örneğin iş ve proje hedefleri ile mimari ve bakım yapılabilirlik hedefleri).
+Yazılım mimarları, kısa vadeli ve uzun vadeli hedefler arasındaki potansiyel çatışmaları tanımlayabilirler (örneğin iş ve proje hedefleri ile mimari ve bakım yapılabilirlik hedefleri).
 Bu çatışmaları çözmek için ilgili paydaşları dahil etmeleri gerektiğini anlarlar. (R1)
 
-Mimarlar, tüm paydaş ilgi alanlarının gereksinimlere dönüştürülemeyeceğini veya dönüştürülmeyeceğini, ancak yine de dikkate alınması gerektiğini anlar. (R3)
+Mimarlar; tüm paydaş ilgi alanlarının gereksinimlere dönüştürülemeyeceğini veya dönüştürülmeyeceğini, ancak yine de dikkate alınması gerektiğini anlar. (R3)
 
-Mimarlar, paydaş ilgi alanlarını eksik veya çelişkili gereksinimleri keşfetmek ve/veya mimari üzerindeki gereksinimleri ve sınır koşullarını doğrulamak için kullanabilir, örneğin paydaş görüşmelerinde. (R3)
+Örneğin paydaş görüşmelerinde; mimarlar, eksik veya çelişkili gereksinimleri keşfetmek ve/veya mimari üzerindeki gereksinimleri ve sınır koşullarını doğrulamak için paydaş ilgi alanlarını kullanabilirler. (R3)
 
 // end::TR[]
