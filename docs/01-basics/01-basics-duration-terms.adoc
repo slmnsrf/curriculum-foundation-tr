@@ -86,14 +86,14 @@ mimari alanlar; {glossary_url}structure[yapı];
 {glossary_url}component[bileşenler];
 {glossary_url}interface[arayüzler];
 {glossary_url}relationship[ilişkiler];
-{glossary_url}cross-cutting-concern[kesişen ilgi alanları];
+{glossary_url}cross-cutting-concern[kesişimsel ilgi alanları];
 yazılım mimarisinin faydaları;
 yazılım mimarları ve sorumlulukları;
 görevler ve gerekli beceriler;
 paydaşlar ve ilgi alanları;
 gereksinimler;
 {glossary_url}constraint[sınır koşulları];
-etkileyen faktörler
+{glossary_url}influencing factors[etki eden etmenler]
 
 // end::TR[]
 
