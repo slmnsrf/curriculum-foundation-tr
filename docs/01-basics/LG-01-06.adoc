@@ -36,8 +36,8 @@ They should adapt their contribution to system development depending on the spec
 // tag::TR[]
 [[LG-01-06]]
 ==== LG 01-06: Yazılım Mimarlarının Rolünü Diğer Paydaşlarla İlişkilendirmek (R1)
-Yazılım mimarları rollerini açıklayabilir.
-Sistem geliştirmeye katkılarını belirli bağlama ve diğer paydaşlar ile organizasyon birimleriyle ilişkiye göre uyarlamalıdırlar, özellikle:
+Yazılım mimarları, rollerini açıklayabilmelidir.
+Sistem geliştirmeye yönelik katkılarını, belirli bir bağlam kapsamında ve diğer paydaşlar veya organizasyon birimleriyle ilişkilerine bağlı olarak uyarlamalıdırlar, özellikle:
 
 * ürün yönetimi ve ürün sahipleri
 * proje yöneticileri
