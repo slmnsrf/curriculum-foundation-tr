@@ -143,6 +143,7 @@
 | build | derleme | |
 | deployment | konuşlandırma | |
 | release | azat | |
+| distribution | dağıtım | |
 
 
 
