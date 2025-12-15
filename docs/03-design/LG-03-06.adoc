@@ -53,21 +53,21 @@ Software architects understand dependencies and coupling between building blocks
 [[LG-03-06]]
 ==== LG 03-06 [önceki LG 2-7]: Yapı Taşları Arasındaki Bağımlılıkları Yönetmek (R1)
 
-Yazılım mimarları, yapı taşları arasındaki bağımlılıkları ve bağlılığı anlar ve bunları hedefli bir şekilde kullanabilir. Onlar:
+Yazılım mimarları, yapı taşları arasındaki bağımlılıkları ve bağlaşımı anlar ve bunları hedefli bir şekilde kullanabilir. Onlar:
 
-* yapı taşlarının farklı bağımlılık türlerini bilir ve anlar (örneğin kullanım/delegasyon, mesajlaşma/olaylar, kompozisyon, oluşturma, kalıtım, zamansal bağlılık, veri, veri türleri veya donanım üzerinden bağlılık)
-* bağımlılıkların bağlılığı nasıl artırdığını anlar
-* en azından aşağıdaki bağlılık kategorilerini ayırt edebilir:
-** statik ve dinamik bağlılık
-** efferent ve afferent bağlılık
-* dinamik bağımlılıklar lehine statik bağımlılıklardan vazgeçmenin altta yatan bağlılığı mutlaka azaltmadığını bilir
-* bağlılığı belirleyebilir ve sonuçlarını değerlendirebilir
+* yapı taşlarının farklı bağımlılık türlerini bilir ve anlar (örneğin kullanım/delegasyon, mesajlaşma/olaylar, kompozisyon, oluşturma, kalıtım, zamansal bağlılık, veri, veri tipleri veya donanım üzerinden bağlaşımlar)
+* bağımlılıkların bağlaşımı nasıl artırdığını anlar
+* en azından aşağıdaki bağlaşım kategorilerini ayırt edebilir:
+** statik ve dinamik bağlaşım
+** efferent ve afferent bağlaşım
+* dinamik bağımlılıklar lehine statik bağımlılıklardan vazgeçmenin altta yatan bağlaşımı mutlaka azaltmadığını bilir
+* bağlaşımı belirleyebilir ve sonuçlarını değerlendirebilir
 * bir bağımlılığın gereksinimler ve sınır koşulları göz önünde bulundurulduğunda uygun olup olmadığı veya kaldırılması gerekip gerekmediği hakkında gerekçeli kararlar verebilir
-* bağlılığı azaltma veya ortadan kaldırma olanaklarını bilir ve uygulayabilir, örneğin:
+* bağlaşımı azaltma veya ortadan kaldırma olanaklarını bilir ve uygulayabilir, örneğin:
 ** örüntüler
 ** temel tasarım ilkeleri
-** bağımlılıkların dışsallaştırılması, yani somut bağımlılıkların kurulum veya çalışma zamanında tanımlanması, örneğin
-{glossary_url}dependency-injection[Dependency Injection] kullanarak (R3) (ayrıca bkz. <<LG-03-08>>).
+** bağımlılıkların dışsallaştırılması, yani somut bağımlılıkların kurulum veya yürütüm zamanında tanımlanması, örneğin
+{glossary_url}dependency-injection[BAğımlılık Enjeksiyonu] kullanarak (R3) (ayrıca bkz. <<LG-03-08>>).
 
 // end::TR[]
 
