@@ -65,7 +65,7 @@ The types (domains and technologies) of examples and exercises can be determined
 
 Müfredatın ilerleyen bölümlerinde verilen çalışma süreleri yalnızca tavsiye niteliğindedir.
 Bir eğitim kursunun süresi en az üç gün olmalıdır, ancak daha uzun da olabilir.
-Sağlayıcılar süre, öğretim yöntemleri, alıştırmaların türü ve yapısı ile ayrıntılı kurs taslağı açısından farklılık gösterebilir.
+Eğitim sağlayıcıları; süre, öğretim yöntemleri, alıştırmaların türü ve yapısı ile ayrıntılı kurs taslağına yönelik yaklaşımlarında farklılık sergileyebilirler.
 Örnek ve alıştırmaların türleri (alanlar ve teknolojiler) eğitim sağlayıcıları tarafından bireysel olarak belirlenebilir.
 
 
