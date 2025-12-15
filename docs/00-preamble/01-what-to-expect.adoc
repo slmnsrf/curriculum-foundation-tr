@@ -84,7 +84,7 @@ CPSA-F eğitimleri, belirli geliştirme süreçlerinden bağımsız olarak yazı
 
 Eğitimin odak noktası aşağıdaki becerilerin kazandırılmasıdır:
 
-* Gereksinimler, yönetim, geliştirme, operasyonlar ve test alanlarından paydaşlarla temel mimari kararları tartışmak ve uzlaşmak
+* Gereksinimler, yönetim, geliştirme, operasyonlar ve test alanlarından kaynaklı temel mimari kararları paydaşlar ile tartışmak ve uzlaşmak
 * Yazılım mimarisinin temel faaliyetlerini anlamak ve bunları küçük-orta ölçekli sistemler için gerçekleştirmek
 * Mimari görünümler, mimari örüntüler ve teknik kavramlara dayalı olarak yazılım mimarilerini belgelemek ve iletmek.
 
