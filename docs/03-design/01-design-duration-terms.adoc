@@ -81,7 +81,7 @@ Bu bölüm; katılımcıların bir yandan sistem bağlamınca tanımlanan sını
 Mimari tasarımlar; geliştirmeyi, sistem ayrıştırması hakkında bilinçli kararlar almayı ve yapı taşları arasındaki bağımlılıkları şekillendirmeyi öğreneceklerdir.
 Bu amaçla, mimari geliştirmede temel yaklaşımları ve buluşsal yöntemleri uygulamayı öğrenirler.
 Tasarım ilkeleri ve çözüm örüntülerinin önemini fark eder ve bunları uygulayabilirler.
-Ayrıca, bu bölüm kesişimsel ilgi alanlarının yönetimi, yazılım dağıtımının ilkeleri ve dağıtık sistemlerin zorluklarını ele alır.
+Ayrıca, bu bölüm kesişimsel ilgi alanlarının yönetimi, yazılım konuşlandırmasının ilkeleri ve dağıtık sistemlerin zorluklarını ele alır.
 
 === İlgili Terimler
 Tasarım; tasarım yaklaşımı; {glossary_url}architectural-decision[mimari karar]; görünümler;
