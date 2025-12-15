@@ -121,7 +121,7 @@ Yazılım mimarları şunları yapabilir:
 
 * aşağıda listelenen tasarım ilkelerini açıklayabilir ve örneklerle gösterebilir
 * bu ilkelerin nasıl uygulanacağını açıklayabilir
-* gereksinimlerin hangi ilkelerin uygulanması gerektiğini nasıl belirlediğini açıklayabilir
+* hangi ilkelerin uygulanması gerektiğini gereksinimlerin nasıl belirlediğini açıklayabilir
 * tasarım ilkelerinin uygulama üzerindeki etkisini açıklayabilir
 * bu tasarım ilkelerinin uygulanıp uygulanmadığını veya uygulanması gerekip gerekmediğini değerlendirmek için kaynak kodu ve mimari tasarımları analiz edebilir
 
@@ -133,18 +133,18 @@ Yazılım mimarları şunları yapabilir:
 
 **Modülerleştirme** (R1)
 
-* {glossary_url}information-hiding[Information Hiding] ve {glossary_url}encapsulation[kapsülleme]
-* {glossary_url}separation-of-concern[Separation of Concerns] - SoC
-* yapı taşlarının gevşek, ancak işlevsel olarak yeterli, bağlılığı (R1), bkz. <<LG-03-06>>
+* {glossary_url}information-hiding[Bilgi Gizleme] ve {glossary_url}encapsulation[Sarma]
+* {glossary_url}separation-of-concern[Sorumlulukların Ayrılması] - SoC
+* yapı taşlarının gevşek, ancak işlevsel olarak yeterli bağlaşımı (R1), bkz. <<LG-03-06>>
 * yüksek {glossary_url}cohesion[bağdaşıklık]
-* {glossary_url}open-close-principle[Açık/kapalı ilkesi]
-* arayüzler veya benzeri soyutlamalar aracılığıyla {glossary_url}dependency-inversion[Dependency Inversion Principle]
+* {glossary_url}open-close-principle[Açıklık-Kapalılık İlkesi]
+* arayüzler veya benzeri soyutlamalar aracılığıyla {glossary_url}dependency-inversion[Bağımlılık Evirimi İlkesi]
 
 **Kavramsal bütünlük** (R2-R3)
 
 * benzer problemler için çözümlerin tekdüzeliği (homojenlik, tutarlılık) anlamında (R2)
 * en az sürpriz ilkesine (diğer adıyla _en az şaşkınlık ilkesi_, POLA) ulaşmanın bir aracı olarak (R3)
-* tutarlılık, kavramsal bütünlük ve sağlamlığa (tür güvenliği anlamında) ulaşmanın bir yolu olarak Liskov'un yerine koyma ilkesi (R3).
+* tutarlılık, kavramsal bütünlük ve sağlamlığa (tür güvenliği anlamında) ulaşmanın bir yolu olarak Liskov ikame ilkesi (R3).
 
 **Karmaşıklık azaltma** (R3)
 
@@ -159,7 +159,7 @@ Yazılım mimarları şunları yapabilir:
 **SOLID İlkeleri** (R3)
 
 Yazılım mimarları SOLID ilkelerinin faydalarını ve sınırlamalarını bilir:
-Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle
+Tek Sorumluluk İlkesi, Açıklık-Kapalılık İlkesi, Liskov İkame İlkesi, Arayüz Ayrım İlkesi, Bağımlılık Evirimi İlkesi
 
 
 // end::TR[]
