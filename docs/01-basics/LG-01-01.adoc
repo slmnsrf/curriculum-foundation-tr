@@ -32,7 +32,7 @@ Yazılım mimarları, birçok yazılım mimarisi tanımının ortak noktaların�
 
 * arayüzler ve ilişkilerle birlikte {glossary_url}building-block[bileşenler/yapı taşları]
 * genel bir terim olarak yapı taşları, bunların özel bir biçimi olarak bileşenler
-* yapılar, {glossary_url}cross-cutting-concern[kesişen ilgi alanları], ilkeler
+* yapılar, {glossary_url}cross-cutting-concern[kesişimsel ilgi alanları], ilkeler
 * mimari kararlar ve bunların tüm sistem ve yaşam döngüsü üzerindeki sonuçları
 
 // end::TR[]
