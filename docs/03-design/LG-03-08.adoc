@@ -93,9 +93,9 @@ somut sistemler için önemlerini anlatabilir ve örnekler verebilir. (R3)
 * {glossary_url}broker[Broker]
 * {glossary_url}cqrs[CQRS (Command-Query-Responsibility-Segregation)]
 * {glossary_url}event-sourcing[Event Sourcing]
-* {glossary_url}dependency-injection[Dependency Injection] (ayrıca bkz. <<LG-03-06>>)
+* {glossary_url}dependency-injection[Bağımlılık Enjeksiyonu] (ayrıca bkz. <<LG-03-06>>)
 * Entegrasyon ve mesajlaşma örüntüleri (örn. <<hohpe>>)
-* {glossary_url}remote-procedure-call[Remote Procedure Call]
+* {glossary_url}remote-procedure-call[Uzaktan Yordam Çağırma]
 * {glossary_url}model-view-controller[MVC] (Model View Controller),
   {glossary_url}model-view-viewmodel[MVVM] (Model View ViewModel),
   {glossary_url}model-view-update[MVU] (Model View Update),
