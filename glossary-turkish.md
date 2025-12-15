@@ -103,6 +103,13 @@
 | top-down | tepeden aşağı | |
 | bottom-up | tabandan yukarı | |
 | agile | çevik | |
+| global state | genel durum | |
+| global variable | genel değişken | |
+| local state | yerel durum | |
+| local variable | yerel değişken | |
+| error handling | hata işleme | |
+| exception handling | istisna işleme | |
+
 
 ---
 
