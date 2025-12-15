@@ -84,29 +84,29 @@ Bu tür arayüzleri tasarlayabilir ve belirleyebilirler.
 
 Şunları bilirler:
 
-* arayüzlerin istenen özellikleri ve bunları tasarımda elde edebilirler (R1):
+* arayüzlerin istenen özellikleri bilirler ve bunları tasarımda elde edebilirler (R1):
 ** öğrenmesi kolay, kullanması kolay, genişletmesi kolay
 ** kötüye kullanması zor
 ** kullanıcılar veya bunları kullanan yapı taşları açısından işlevsel olarak eksiksiz.
 
 * iç ve dış arayüzlere farklı davranma gerekliliği (R2)
 
-* arayüz ve uygulama arasındaki ayrım (R1):
-** gerektiğinde uygulamalar değiştirilebilir.
+* arayüz ve gerçekleştirme arasındaki ayrım (R1):
+** gerektiğinde gerçekleştirmeler değiştirilebilir.
 
 * arayüzlerin farklı özellikleri, örneğin (R3):
 ** Taşıma kanalları (örneğin: OSI 7 katmanlı modelinin parçası olarak TCP/IP, paylaşımlı bellek)
-** iç veya dış
-** yerel veya uzak
-** senkron veya asenkron
-** ikili (yalnızca makine tarafından okunabilir) veya metinsel (insan tarafından da okunabilir)
+** dahili veya harici
+** yerel veya uzaktan
+** eşzamanlı veya eşzamansız
+** ikilik (yalnızca makine tarafından okunabilir) veya metinsel (insan tarafından da okunabilir)
 ** durumsuz veya durumlu
 ** noktadan noktaya veya çok noktalı (yayın veya çoklu yayın)
-** Fonksiyon çağrısı (örn. Remote Procedure Call) veya mesaj değişimi
-** Toplu, istek/yanıt veya akış
+** İşlev çağırma (örn. uzaktan yordam çağırma) veya mesaj değişimi
+** Yığın, istek/yanıt veya akışlandırma
 
-* uzak {glossary_url}service[servis arayüzleri] için uygulama yaklaşımları, örneğin (R3):
-** prosedür odaklı (örn. GraphQL veya WS-*/SOAP tabanlı web servisleri)
+* uzaktan {glossary_url}service[hizmet arayüzleri] için uygulama yaklaşımları, örneğin (R3):
+** yordam odaklı (örn. GraphQL veya WS-*/SOAP tabanlı web servisleri)
 ** kaynak odaklı (REST, REpresentational State Transfer)
 
 Ayrıca bkz. <<LG-04-06>>.
